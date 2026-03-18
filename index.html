@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canada Employment Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="dashboard">
+        <header>
+            <h1>Canada Employment Pulse</h1>
+            <p>High-level monthly trends in employment based on the latest Statistics Canada data.</p>
+        </header>
+        
+        <section class="kpis" id="kpi-container">
+            <!-- Dynamically populated via script.js -->
+        </section>
+
+        <section class="controls-section">
+            <div class="controls-flex">
+                <div class="date-buttons">
+                    <button class="time-btn" data-years="1">1 Year</button>
+                    <button class="time-btn" data-years="5">5 Years</button>
+                    <button class="time-btn default-btn" data-years="10">10 Years</button>
+                    <button class="time-btn" data-years="all">All Time</button>
+                </div>
+                <div class="date-slicer">
+                    <label for="startYear">Range:</label>
+                    <select id="startYear"></select>
+                    <span>to</span>
+                    <select id="endYear"></select>
+                </div>
+            </div>
+        </section>
+
+        <section class="charts-grid">
+             <div class="chart-card wide">
+                 <h2>Total Employment Trend</h2>
+                 <div class="chart-container">
+                    <canvas id="employmentChart"></canvas>
+                 </div>
+             </div>
+             
+             <div class="chart-card">
+                 <h2>Monthly Change in Employment</h2>
+                 <div class="chart-container">
+                    <canvas id="employmentChangeChart"></canvas>
+                 </div>
+             </div>
+             
+             <div class="chart-card">
+                 <h2>Full-Time vs Part-Time</h2>
+                 <div class="chart-container">
+                    <canvas id="ftPtChart"></canvas>
+                 </div>
+             </div>
+
+             <div class="chart-card">
+                <h2>Unemployment Rate Indicator</h2>
+                <div class="chart-container">
+                    <canvas id="unemploymentChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <section class="table-section">
+            <div class="table-card">
+                <h2>Annual Averages (Full-Time vs Part-Time)</h2>
+                <div class="table-responsive">
+                    <table id="annualTable">
+                        <thead>
+                            <tr>
+                                <th>Year</th>
+                                <th>Avg Full-Time</th>
+                                <th>Avg Part-Time</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Dynamically populated -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+    <!-- Chart.js for data visualization -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,5420 @@
+[
+  {
+    "date": "1976-01",
+    "population": 16852400,
+    "labour_force": 10369700,
+    "emp": 9636700,
+    "full_time_employed": 8431000,
+    "part_time_employed": 1205600,
+    "unemp": 733000
+  },
+  {
+    "date": "1976-02",
+    "population": 16892000,
+    "labour_force": 10389800,
+    "emp": 9659800,
+    "full_time_employed": 8467500,
+    "part_time_employed": 1192300,
+    "unemp": 730000
+  },
+  {
+    "date": "1976-03",
+    "population": 16930700,
+    "labour_force": 10395700,
+    "emp": 9704200,
+    "full_time_employed": 8509400,
+    "part_time_employed": 1194800,
+    "unemp": 691500
+  },
+  {
+    "date": "1976-04",
+    "population": 16969400,
+    "labour_force": 10451300,
+    "emp": 9738200,
+    "full_time_employed": 8540100,
+    "part_time_employed": 1198100,
+    "unemp": 713100
+  },
+  {
+    "date": "1976-05",
+    "population": 17008100,
+    "labour_force": 10446100,
+    "emp": 9726100,
+    "full_time_employed": 8529600,
+    "part_time_employed": 1196400,
+    "unemp": 720000
+  },
+  {
+    "date": "1976-06",
+    "population": 17046800,
+    "labour_force": 10469600,
+    "emp": 9748300,
+    "full_time_employed": 8519200,
+    "part_time_employed": 1229100,
+    "unemp": 721300
+  },
+  {
+    "date": "1976-07",
+    "population": 17085500,
+    "labour_force": 10539400,
+    "emp": 9759500,
+    "full_time_employed": 8544400,
+    "part_time_employed": 1215100,
+    "unemp": 779900
+  },
+  {
+    "date": "1976-08",
+    "population": 17124400,
+    "labour_force": 10524100,
+    "emp": 9780500,
+    "full_time_employed": 8561900,
+    "part_time_employed": 1218600,
+    "unemp": 743600
+  },
+  {
+    "date": "1976-09",
+    "population": 17154400,
+    "labour_force": 10531900,
+    "emp": 9795200,
+    "full_time_employed": 8582600,
+    "part_time_employed": 1212600,
+    "unemp": 736700
+  },
+  {
+    "date": "1976-10",
+    "population": 17183400,
+    "labour_force": 10565100,
+    "emp": 9782500,
+    "full_time_employed": 8537700,
+    "part_time_employed": 1244800,
+    "unemp": 782600
+  },
+  {
+    "date": "1976-11",
+    "population": 17211400,
+    "labour_force": 10609500,
+    "emp": 9829000,
+    "full_time_employed": 8560800,
+    "part_time_employed": 1268200,
+    "unemp": 780500
+  },
+  {
+    "date": "1976-12",
+    "population": 17238100,
+    "labour_force": 10657300,
+    "emp": 9862600,
+    "full_time_employed": 8606300,
+    "part_time_employed": 1256300,
+    "unemp": 794800
+  },
+  {
+    "date": "1977-01",
+    "population": 17270600,
+    "labour_force": 10681100,
+    "emp": 9869300,
+    "full_time_employed": 8615100,
+    "part_time_employed": 1254200,
+    "unemp": 811800
+  },
+  {
+    "date": "1977-02",
+    "population": 17302400,
+    "labour_force": 10716100,
+    "emp": 9874200,
+    "full_time_employed": 8611300,
+    "part_time_employed": 1262900,
+    "unemp": 842000
+  },
+  {
+    "date": "1977-03",
+    "population": 17329100,
+    "labour_force": 10701700,
+    "emp": 9865700,
+    "full_time_employed": 8589500,
+    "part_time_employed": 1276200,
+    "unemp": 836000
+  },
+  {
+    "date": "1977-04",
+    "population": 17358700,
+    "labour_force": 10741500,
+    "emp": 9892600,
+    "full_time_employed": 8620400,
+    "part_time_employed": 1272100,
+    "unemp": 849000
+  },
+  {
+    "date": "1977-05",
+    "population": 17394100,
+    "labour_force": 10749700,
+    "emp": 9912000,
+    "full_time_employed": 8619700,
+    "part_time_employed": 1292300,
+    "unemp": 837800
+  },
+  {
+    "date": "1977-06",
+    "population": 17421500,
+    "labour_force": 10749000,
+    "emp": 9906900,
+    "full_time_employed": 8611400,
+    "part_time_employed": 1295500,
+    "unemp": 842000
+  },
+  {
+    "date": "1977-07",
+    "population": 17449400,
+    "labour_force": 10784300,
+    "emp": 9911400,
+    "full_time_employed": 8619600,
+    "part_time_employed": 1291800,
+    "unemp": 872900
+  },
+  {
+    "date": "1977-08",
+    "population": 17485100,
+    "labour_force": 10819400,
+    "emp": 9936600,
+    "full_time_employed": 8628900,
+    "part_time_employed": 1307800,
+    "unemp": 882800
+  },
+  {
+    "date": "1977-09",
+    "population": 17513700,
+    "labour_force": 10839000,
+    "emp": 9937000,
+    "full_time_employed": 8631400,
+    "part_time_employed": 1305600,
+    "unemp": 902000
+  },
+  {
+    "date": "1977-10",
+    "population": 17540600,
+    "labour_force": 10875500,
+    "emp": 9962100,
+    "full_time_employed": 8639800,
+    "part_time_employed": 1322300,
+    "unemp": 913400
+  },
+  {
+    "date": "1977-11",
+    "population": 17567500,
+    "labour_force": 10901700,
+    "emp": 9976300,
+    "full_time_employed": 8655700,
+    "part_time_employed": 1320600,
+    "unemp": 925400
+  },
+  {
+    "date": "1977-12",
+    "population": 17592800,
+    "labour_force": 10928900,
+    "emp": 10002300,
+    "full_time_employed": 8668900,
+    "part_time_employed": 1333400,
+    "unemp": 926600
+  },
+  {
+    "date": "1978-01",
+    "population": 17623500,
+    "labour_force": 10918100,
+    "emp": 10013000,
+    "full_time_employed": 8692200,
+    "part_time_employed": 1320800,
+    "unemp": 905100
+  },
+  {
+    "date": "1978-02",
+    "population": 17653900,
+    "labour_force": 10981400,
+    "emp": 10067500,
+    "full_time_employed": 8747700,
+    "part_time_employed": 1319800,
+    "unemp": 913800
+  },
+  {
+    "date": "1978-03",
+    "population": 17679300,
+    "labour_force": 11041600,
+    "emp": 10100300,
+    "full_time_employed": 8781500,
+    "part_time_employed": 1318800,
+    "unemp": 941200
+  },
+  {
+    "date": "1978-04",
+    "population": 17706900,
+    "labour_force": 11060300,
+    "emp": 10128700,
+    "full_time_employed": 8782000,
+    "part_time_employed": 1346700,
+    "unemp": 931600
+  },
+  {
+    "date": "1978-05",
+    "population": 17741600,
+    "labour_force": 11100500,
+    "emp": 10146700,
+    "full_time_employed": 8816400,
+    "part_time_employed": 1330200,
+    "unemp": 953900
+  },
+  {
+    "date": "1978-06",
+    "population": 17767500,
+    "labour_force": 11146100,
+    "emp": 10207600,
+    "full_time_employed": 8852000,
+    "part_time_employed": 1355600,
+    "unemp": 938500
+  },
+  {
+    "date": "1978-07",
+    "population": 17792000,
+    "labour_force": 11188400,
+    "emp": 10255000,
+    "full_time_employed": 8849700,
+    "part_time_employed": 1405300,
+    "unemp": 933400
+  },
+  {
+    "date": "1978-08",
+    "population": 17824400,
+    "labour_force": 11235500,
+    "emp": 10287500,
+    "full_time_employed": 8900300,
+    "part_time_employed": 1387200,
+    "unemp": 948000
+  },
+  {
+    "date": "1978-09",
+    "population": 17850700,
+    "labour_force": 11252700,
+    "emp": 10305500,
+    "full_time_employed": 8941400,
+    "part_time_employed": 1364100,
+    "unemp": 947200
+  },
+  {
+    "date": "1978-10",
+    "population": 17876800,
+    "labour_force": 11293700,
+    "emp": 10368800,
+    "full_time_employed": 9017800,
+    "part_time_employed": 1351000,
+    "unemp": 924800
+  },
+  {
+    "date": "1978-11",
+    "population": 17902400,
+    "labour_force": 11332900,
+    "emp": 10387200,
+    "full_time_employed": 9024700,
+    "part_time_employed": 1362400,
+    "unemp": 945700
+  },
+  {
+    "date": "1978-12",
+    "population": 17927300,
+    "labour_force": 11366100,
+    "emp": 10428300,
+    "full_time_employed": 9050200,
+    "part_time_employed": 1378100,
+    "unemp": 937800
+  },
+  {
+    "date": "1979-01",
+    "population": 17958400,
+    "labour_force": 11421200,
+    "emp": 10483100,
+    "full_time_employed": 9074600,
+    "part_time_employed": 1408500,
+    "unemp": 938200
+  },
+  {
+    "date": "1979-02",
+    "population": 17989100,
+    "labour_force": 11407300,
+    "emp": 10490000,
+    "full_time_employed": 9100500,
+    "part_time_employed": 1389500,
+    "unemp": 917300
+  },
+  {
+    "date": "1979-03",
+    "population": 18014300,
+    "labour_force": 11440800,
+    "emp": 10535900,
+    "full_time_employed": 9113100,
+    "part_time_employed": 1422800,
+    "unemp": 904900
+  },
+  {
+    "date": "1979-04",
+    "population": 18047300,
+    "labour_force": 11474900,
+    "emp": 10560800,
+    "full_time_employed": 9129500,
+    "part_time_employed": 1431400,
+    "unemp": 914100
+  },
+  {
+    "date": "1979-05",
+    "population": 18073700,
+    "labour_force": 11483200,
+    "emp": 10611400,
+    "full_time_employed": 9136100,
+    "part_time_employed": 1475300,
+    "unemp": 871800
+  },
+  {
+    "date": "1979-06",
+    "population": 18101000,
+    "labour_force": 11496100,
+    "emp": 10645400,
+    "full_time_employed": 9190200,
+    "part_time_employed": 1455200,
+    "unemp": 850700
+  },
+  {
+    "date": "1979-07",
+    "population": 18133400,
+    "labour_force": 11537000,
+    "emp": 10702100,
+    "full_time_employed": 9222600,
+    "part_time_employed": 1479500,
+    "unemp": 834900
+  },
+  {
+    "date": "1979-08",
+    "population": 18161400,
+    "labour_force": 11563800,
+    "emp": 10742100,
+    "full_time_employed": 9246300,
+    "part_time_employed": 1495800,
+    "unemp": 821700
+  },
+  {
+    "date": "1979-09",
+    "population": 18189400,
+    "labour_force": 11569100,
+    "emp": 10756500,
+    "full_time_employed": 9246800,
+    "part_time_employed": 1509700,
+    "unemp": 812500
+  },
+  {
+    "date": "1979-10",
+    "population": 18226000,
+    "labour_force": 11652200,
+    "emp": 10809000,
+    "full_time_employed": 9296600,
+    "part_time_employed": 1512400,
+    "unemp": 843200
+  },
+  {
+    "date": "1979-11",
+    "population": 18255200,
+    "labour_force": 11678100,
+    "emp": 10841300,
+    "full_time_employed": 9322700,
+    "part_time_employed": 1518500,
+    "unemp": 836800
+  },
+  {
+    "date": "1979-12",
+    "population": 18283800,
+    "labour_force": 11708100,
+    "emp": 10859900,
+    "full_time_employed": 9340800,
+    "part_time_employed": 1519100,
+    "unemp": 848100
+  },
+  {
+    "date": "1980-01",
+    "population": 18317900,
+    "labour_force": 11760100,
+    "emp": 10882600,
+    "full_time_employed": 9360500,
+    "part_time_employed": 1522100,
+    "unemp": 877500
+  },
+  {
+    "date": "1980-02",
+    "population": 18346400,
+    "labour_force": 11796900,
+    "emp": 10902900,
+    "full_time_employed": 9375400,
+    "part_time_employed": 1527600,
+    "unemp": 894000
+  },
+  {
+    "date": "1980-03",
+    "population": 18373900,
+    "labour_force": 11798900,
+    "emp": 10897800,
+    "full_time_employed": 9358500,
+    "part_time_employed": 1539300,
+    "unemp": 901000
+  },
+  {
+    "date": "1980-04",
+    "population": 18407700,
+    "labour_force": 11846700,
+    "emp": 10938300,
+    "full_time_employed": 9380100,
+    "part_time_employed": 1558300,
+    "unemp": 908300
+  },
+  {
+    "date": "1980-05",
+    "population": 18437000,
+    "labour_force": 11815500,
+    "emp": 10891600,
+    "full_time_employed": 9351000,
+    "part_time_employed": 1540600,
+    "unemp": 923900
+  },
+  {
+    "date": "1980-06",
+    "population": 18474100,
+    "labour_force": 11855100,
+    "emp": 10936800,
+    "full_time_employed": 9379900,
+    "part_time_employed": 1556900,
+    "unemp": 918300
+  },
+  {
+    "date": "1980-07",
+    "population": 18501100,
+    "labour_force": 11840600,
+    "emp": 10935000,
+    "full_time_employed": 9373500,
+    "part_time_employed": 1561500,
+    "unemp": 905600
+  },
+  {
+    "date": "1980-08",
+    "population": 18529000,
+    "labour_force": 11878100,
+    "emp": 10970300,
+    "full_time_employed": 9397700,
+    "part_time_employed": 1572500,
+    "unemp": 907900
+  },
+  {
+    "date": "1980-09",
+    "population": 18564000,
+    "labour_force": 11928100,
+    "emp": 11051900,
+    "full_time_employed": 9439800,
+    "part_time_employed": 1612100,
+    "unemp": 876200
+  },
+  {
+    "date": "1980-10",
+    "population": 18591500,
+    "labour_force": 11956200,
+    "emp": 11083100,
+    "full_time_employed": 9476300,
+    "part_time_employed": 1606800,
+    "unemp": 873100
+  },
+  {
+    "date": "1980-11",
+    "population": 18617400,
+    "labour_force": 11984700,
+    "emp": 11127000,
+    "full_time_employed": 9499300,
+    "part_time_employed": 1627700,
+    "unemp": 857700
+  },
+  {
+    "date": "1980-12",
+    "population": 18642600,
+    "labour_force": 12014100,
+    "emp": 11140000,
+    "full_time_employed": 9557800,
+    "part_time_employed": 1582200,
+    "unemp": 874100
+  },
+  {
+    "date": "1981-01",
+    "population": 18671800,
+    "labour_force": 12098800,
+    "emp": 11206500,
+    "full_time_employed": 9592500,
+    "part_time_employed": 1614100,
+    "unemp": 892300
+  },
+  {
+    "date": "1981-02",
+    "population": 18700600,
+    "labour_force": 12183100,
+    "emp": 11283300,
+    "full_time_employed": 9625900,
+    "part_time_employed": 1657400,
+    "unemp": 899800
+  },
+  {
+    "date": "1981-03",
+    "population": 18725000,
+    "labour_force": 12181200,
+    "emp": 11278700,
+    "full_time_employed": 9604900,
+    "part_time_employed": 1673800,
+    "unemp": 902400
+  },
+  {
+    "date": "1981-04",
+    "population": 18749900,
+    "labour_force": 12184100,
+    "emp": 11315800,
+    "full_time_employed": 9661600,
+    "part_time_employed": 1654200,
+    "unemp": 868300
+  },
+  {
+    "date": "1981-05",
+    "population": 18775200,
+    "labour_force": 12223000,
+    "emp": 11345800,
+    "full_time_employed": 9646500,
+    "part_time_employed": 1699300,
+    "unemp": 877200
+  },
+  {
+    "date": "1981-06",
+    "population": 18806100,
+    "labour_force": 12263600,
+    "emp": 11375600,
+    "full_time_employed": 9685100,
+    "part_time_employed": 1690600,
+    "unemp": 887900
+  },
+  {
+    "date": "1981-07",
+    "population": 18829000,
+    "labour_force": 12215800,
+    "emp": 11336400,
+    "full_time_employed": 9708200,
+    "part_time_employed": 1628200,
+    "unemp": 879400
+  },
+  {
+    "date": "1981-08",
+    "population": 18852500,
+    "labour_force": 12215000,
+    "emp": 11353800,
+    "full_time_employed": 9690900,
+    "part_time_employed": 1662800,
+    "unemp": 861200
+  },
+  {
+    "date": "1981-09",
+    "population": 18880800,
+    "labour_force": 12332600,
+    "emp": 11328700,
+    "full_time_employed": 9618100,
+    "part_time_employed": 1710500,
+    "unemp": 1003900
+  },
+  {
+    "date": "1981-10",
+    "population": 18904400,
+    "labour_force": 12320500,
+    "emp": 11300100,
+    "full_time_employed": 9595100,
+    "part_time_employed": 1705000,
+    "unemp": 1020400
+  },
+  {
+    "date": "1981-11",
+    "population": 18927100,
+    "labour_force": 12311000,
+    "emp": 11291500,
+    "full_time_employed": 9583800,
+    "part_time_employed": 1707700,
+    "unemp": 1019500
+  },
+  {
+    "date": "1981-12",
+    "population": 18949700,
+    "labour_force": 12307700,
+    "emp": 11236000,
+    "full_time_employed": 9513000,
+    "part_time_employed": 1723000,
+    "unemp": 1071700
+  },
+  {
+    "date": "1982-01",
+    "population": 18976300,
+    "labour_force": 12265300,
+    "emp": 11205600,
+    "full_time_employed": 9490000,
+    "part_time_employed": 1715600,
+    "unemp": 1059700
+  },
+  {
+    "date": "1982-02",
+    "population": 19001700,
+    "labour_force": 12259700,
+    "emp": 11166900,
+    "full_time_employed": 9459500,
+    "part_time_employed": 1707400,
+    "unemp": 1092800
+  },
+  {
+    "date": "1982-03",
+    "population": 19023700,
+    "labour_force": 12280200,
+    "emp": 11140500,
+    "full_time_employed": 9435500,
+    "part_time_employed": 1705000,
+    "unemp": 1139700
+  },
+  {
+    "date": "1982-04",
+    "population": 19045600,
+    "labour_force": 12281100,
+    "emp": 11076300,
+    "full_time_employed": 9358100,
+    "part_time_employed": 1718200,
+    "unemp": 1204800
+  },
+  {
+    "date": "1982-05",
+    "population": 19068300,
+    "labour_force": 12293300,
+    "emp": 11021900,
+    "full_time_employed": 9325800,
+    "part_time_employed": 1696100,
+    "unemp": 1271400
+  },
+  {
+    "date": "1982-06",
+    "population": 19096200,
+    "labour_force": 12304800,
+    "emp": 10940600,
+    "full_time_employed": 9200100,
+    "part_time_employed": 1740500,
+    "unemp": 1364300
+  },
+  {
+    "date": "1982-07",
+    "population": 19115700,
+    "labour_force": 12358800,
+    "emp": 10893600,
+    "full_time_employed": 9125200,
+    "part_time_employed": 1768400,
+    "unemp": 1465200
+  },
+  {
+    "date": "1982-08",
+    "population": 19142000,
+    "labour_force": 12314300,
+    "emp": 10836300,
+    "full_time_employed": 9032000,
+    "part_time_employed": 1804200,
+    "unemp": 1478100
+  },
+  {
+    "date": "1982-09",
+    "population": 19162500,
+    "labour_force": 12333700,
+    "emp": 10806700,
+    "full_time_employed": 9062800,
+    "part_time_employed": 1743900,
+    "unemp": 1527000
+  },
+  {
+    "date": "1982-10",
+    "population": 19183200,
+    "labour_force": 12389300,
+    "emp": 10787200,
+    "full_time_employed": 9023300,
+    "part_time_employed": 1764000,
+    "unemp": 1602100
+  },
+  {
+    "date": "1982-11",
+    "population": 19203300,
+    "labour_force": 12364600,
+    "emp": 10764100,
+    "full_time_employed": 8997000,
+    "part_time_employed": 1767200,
+    "unemp": 1600400
+  },
+  {
+    "date": "1982-12",
+    "population": 19222600,
+    "labour_force": 12398500,
+    "emp": 10774100,
+    "full_time_employed": 8992800,
+    "part_time_employed": 1781300,
+    "unemp": 1624400
+  },
+  {
+    "date": "1983-01",
+    "population": 19244200,
+    "labour_force": 12374000,
+    "emp": 10801100,
+    "full_time_employed": 8993400,
+    "part_time_employed": 1807700,
+    "unemp": 1572900
+  },
+  {
+    "date": "1983-02",
+    "population": 19266500,
+    "labour_force": 12391800,
+    "emp": 10818200,
+    "full_time_employed": 9009900,
+    "part_time_employed": 1808400,
+    "unemp": 1573600
+  },
+  {
+    "date": "1983-03",
+    "population": 19285100,
+    "labour_force": 12429600,
+    "emp": 10874900,
+    "full_time_employed": 9059000,
+    "part_time_employed": 1815900,
+    "unemp": 1554700
+  },
+  {
+    "date": "1983-04",
+    "population": 19304200,
+    "labour_force": 12486300,
+    "emp": 10932600,
+    "full_time_employed": 9096700,
+    "part_time_employed": 1835900,
+    "unemp": 1553700
+  },
+  {
+    "date": "1983-05",
+    "population": 19328100,
+    "labour_force": 12509000,
+    "emp": 10952500,
+    "full_time_employed": 9120600,
+    "part_time_employed": 1831900,
+    "unemp": 1556500
+  },
+  {
+    "date": "1983-06",
+    "population": 19346500,
+    "labour_force": 12578700,
+    "emp": 11021400,
+    "full_time_employed": 9178500,
+    "part_time_employed": 1842900,
+    "unemp": 1557300
+  },
+  {
+    "date": "1983-07",
+    "population": 19363300,
+    "labour_force": 12566200,
+    "emp": 11073400,
+    "full_time_employed": 9191300,
+    "part_time_employed": 1882000,
+    "unemp": 1492900
+  },
+  {
+    "date": "1983-08",
+    "population": 19386400,
+    "labour_force": 12599500,
+    "emp": 11126600,
+    "full_time_employed": 9235500,
+    "part_time_employed": 1891100,
+    "unemp": 1472800
+  },
+  {
+    "date": "1983-09",
+    "population": 19405300,
+    "labour_force": 12606300,
+    "emp": 11174200,
+    "full_time_employed": 9308300,
+    "part_time_employed": 1865900,
+    "unemp": 1432000
+  },
+  {
+    "date": "1983-10",
+    "population": 19424200,
+    "labour_force": 12582500,
+    "emp": 11163300,
+    "full_time_employed": 9280700,
+    "part_time_employed": 1882600,
+    "unemp": 1419200
+  },
+  {
+    "date": "1983-11",
+    "population": 19443700,
+    "labour_force": 12577900,
+    "emp": 11162000,
+    "full_time_employed": 9278400,
+    "part_time_employed": 1883600,
+    "unemp": 1415900
+  },
+  {
+    "date": "1983-12",
+    "population": 19462200,
+    "labour_force": 12616500,
+    "emp": 11187400,
+    "full_time_employed": 9289700,
+    "part_time_employed": 1897800,
+    "unemp": 1429100
+  },
+  {
+    "date": "1984-01",
+    "population": 19483700,
+    "labour_force": 12591900,
+    "emp": 11168600,
+    "full_time_employed": 9297800,
+    "part_time_employed": 1870800,
+    "unemp": 1423300
+  },
+  {
+    "date": "1984-02",
+    "population": 19506200,
+    "labour_force": 12629300,
+    "emp": 11203900,
+    "full_time_employed": 9325800,
+    "part_time_employed": 1878100,
+    "unemp": 1425400
+  },
+  {
+    "date": "1984-03",
+    "population": 19524200,
+    "labour_force": 12630600,
+    "emp": 11205900,
+    "full_time_employed": 9341000,
+    "part_time_employed": 1864900,
+    "unemp": 1424700
+  },
+  {
+    "date": "1984-04",
+    "population": 19546800,
+    "labour_force": 12654500,
+    "emp": 11198500,
+    "full_time_employed": 9331100,
+    "part_time_employed": 1867400,
+    "unemp": 1456000
+  },
+  {
+    "date": "1984-05",
+    "population": 19566700,
+    "labour_force": 12739500,
+    "emp": 11245500,
+    "full_time_employed": 9375100,
+    "part_time_employed": 1870500,
+    "unemp": 1494000
+  },
+  {
+    "date": "1984-06",
+    "population": 19586500,
+    "labour_force": 12757400,
+    "emp": 11314500,
+    "full_time_employed": 9418300,
+    "part_time_employed": 1896200,
+    "unemp": 1442900
+  },
+  {
+    "date": "1984-07",
+    "population": 19609700,
+    "labour_force": 12783700,
+    "emp": 11356600,
+    "full_time_employed": 9438400,
+    "part_time_employed": 1918300,
+    "unemp": 1427100
+  },
+  {
+    "date": "1984-08",
+    "population": 19628800,
+    "labour_force": 12790400,
+    "emp": 11349300,
+    "full_time_employed": 9418800,
+    "part_time_employed": 1930500,
+    "unemp": 1441100
+  },
+  {
+    "date": "1984-09",
+    "population": 19648200,
+    "labour_force": 12901700,
+    "emp": 11373800,
+    "full_time_employed": 9467500,
+    "part_time_employed": 1906300,
+    "unemp": 1527900
+  },
+  {
+    "date": "1984-10",
+    "population": 19672400,
+    "labour_force": 12843300,
+    "emp": 11387700,
+    "full_time_employed": 9472400,
+    "part_time_employed": 1915300,
+    "unemp": 1455600
+  },
+  {
+    "date": "1984-11",
+    "population": 19691500,
+    "labour_force": 12853400,
+    "emp": 11391100,
+    "full_time_employed": 9492700,
+    "part_time_employed": 1898400,
+    "unemp": 1462300
+  },
+  {
+    "date": "1984-12",
+    "population": 19709600,
+    "labour_force": 12856200,
+    "emp": 11430300,
+    "full_time_employed": 9534100,
+    "part_time_employed": 1896100,
+    "unemp": 1425900
+  },
+  {
+    "date": "1985-01",
+    "population": 19730900,
+    "labour_force": 12846400,
+    "emp": 11481700,
+    "full_time_employed": 9555100,
+    "part_time_employed": 1926600,
+    "unemp": 1364700
+  },
+  {
+    "date": "1985-02",
+    "population": 19748600,
+    "labour_force": 12892300,
+    "emp": 11506300,
+    "full_time_employed": 9562200,
+    "part_time_employed": 1944200,
+    "unemp": 1386000
+  },
+  {
+    "date": "1985-03",
+    "population": 19766500,
+    "labour_force": 12952900,
+    "emp": 11531400,
+    "full_time_employed": 9576700,
+    "part_time_employed": 1954700,
+    "unemp": 1421400
+  },
+  {
+    "date": "1985-04",
+    "population": 19789400,
+    "labour_force": 12975900,
+    "emp": 11571500,
+    "full_time_employed": 9597000,
+    "part_time_employed": 1974500,
+    "unemp": 1404400
+  },
+  {
+    "date": "1985-05",
+    "population": 19809000,
+    "labour_force": 12985500,
+    "emp": 11613700,
+    "full_time_employed": 9646000,
+    "part_time_employed": 1967700,
+    "unemp": 1371800
+  },
+  {
+    "date": "1985-06",
+    "population": 19828700,
+    "labour_force": 13018300,
+    "emp": 11627000,
+    "full_time_employed": 9648200,
+    "part_time_employed": 1978800,
+    "unemp": 1391300
+  },
+  {
+    "date": "1985-07",
+    "population": 19852400,
+    "labour_force": 13039500,
+    "emp": 11681100,
+    "full_time_employed": 9679700,
+    "part_time_employed": 2001400,
+    "unemp": 1358400
+  },
+  {
+    "date": "1985-08",
+    "population": 19872800,
+    "labour_force": 13060200,
+    "emp": 11712100,
+    "full_time_employed": 9695500,
+    "part_time_employed": 2016600,
+    "unemp": 1348100
+  },
+  {
+    "date": "1985-09",
+    "population": 19898700,
+    "labour_force": 13055100,
+    "emp": 11723300,
+    "full_time_employed": 9716600,
+    "part_time_employed": 2006700,
+    "unemp": 1331700
+  },
+  {
+    "date": "1985-10",
+    "population": 19919100,
+    "labour_force": 13109400,
+    "emp": 11754000,
+    "full_time_employed": 9759800,
+    "part_time_employed": 1994200,
+    "unemp": 1355400
+  },
+  {
+    "date": "1985-11",
+    "population": 19939600,
+    "labour_force": 13169200,
+    "emp": 11819000,
+    "full_time_employed": 9810000,
+    "part_time_employed": 2009000,
+    "unemp": 1350200
+  },
+  {
+    "date": "1985-12",
+    "population": 19958200,
+    "labour_force": 13186600,
+    "emp": 11860500,
+    "full_time_employed": 9866800,
+    "part_time_employed": 1993800,
+    "unemp": 1326100
+  },
+  {
+    "date": "1986-01",
+    "population": 19981200,
+    "labour_force": 13203700,
+    "emp": 11903500,
+    "full_time_employed": 9911100,
+    "part_time_employed": 1992400,
+    "unemp": 1300200
+  },
+  {
+    "date": "1986-02",
+    "population": 19999000,
+    "labour_force": 13221700,
+    "emp": 11917900,
+    "full_time_employed": 9918600,
+    "part_time_employed": 1999300,
+    "unemp": 1303800
+  },
+  {
+    "date": "1986-03",
+    "population": 20017200,
+    "labour_force": 13224900,
+    "emp": 11926300,
+    "full_time_employed": 9929900,
+    "part_time_employed": 1996400,
+    "unemp": 1298600
+  },
+  {
+    "date": "1986-04",
+    "population": 20041300,
+    "labour_force": 13292300,
+    "emp": 12008100,
+    "full_time_employed": 9957400,
+    "part_time_employed": 2050800.0000000002,
+    "unemp": 1284200
+  },
+  {
+    "date": "1986-05",
+    "population": 20062100,
+    "labour_force": 13236700,
+    "emp": 11977200,
+    "full_time_employed": 9954400,
+    "part_time_employed": 2022800,
+    "unemp": 1259500
+  },
+  {
+    "date": "1986-06",
+    "population": 20087600,
+    "labour_force": 13289800,
+    "emp": 12016900,
+    "full_time_employed": 9976200,
+    "part_time_employed": 2040700,
+    "unemp": 1272900
+  },
+  {
+    "date": "1986-07",
+    "population": 20105900,
+    "labour_force": 13288400,
+    "emp": 12017100,
+    "full_time_employed": 10001900,
+    "part_time_employed": 2015200,
+    "unemp": 1271300
+  },
+  {
+    "date": "1986-08",
+    "population": 20124500,
+    "labour_force": 13302200,
+    "emp": 12024700,
+    "full_time_employed": 10000500,
+    "part_time_employed": 2024200,
+    "unemp": 1277500
+  },
+  {
+    "date": "1986-09",
+    "population": 20147100,
+    "labour_force": 13300500,
+    "emp": 12035200,
+    "full_time_employed": 9982900,
+    "part_time_employed": 2052199.9999999998,
+    "unemp": 1265300
+  },
+  {
+    "date": "1986-10",
+    "population": 20165800,
+    "labour_force": 13313100,
+    "emp": 12059600,
+    "full_time_employed": 10006500,
+    "part_time_employed": 2053100,
+    "unemp": 1253500
+  },
+  {
+    "date": "1986-11",
+    "population": 20183900,
+    "labour_force": 13332800,
+    "emp": 12082000,
+    "full_time_employed": 10033800,
+    "part_time_employed": 2048199.9999999998,
+    "unemp": 1250800
+  },
+  {
+    "date": "1986-12",
+    "population": 20202600,
+    "labour_force": 13346600,
+    "emp": 12079700,
+    "full_time_employed": 10018200,
+    "part_time_employed": 2061500,
+    "unemp": 1266900
+  },
+  {
+    "date": "1987-01",
+    "population": 20225300,
+    "labour_force": 13376200,
+    "emp": 12102000,
+    "full_time_employed": 10059000,
+    "part_time_employed": 2043000,
+    "unemp": 1274300
+  },
+  {
+    "date": "1987-02",
+    "population": 20248600,
+    "labour_force": 13406700,
+    "emp": 12131400,
+    "full_time_employed": 10091600,
+    "part_time_employed": 2039800,
+    "unemp": 1275300
+  },
+  {
+    "date": "1987-03",
+    "population": 20268900,
+    "labour_force": 13441300,
+    "emp": 12182000,
+    "full_time_employed": 10169200,
+    "part_time_employed": 2012800,
+    "unemp": 1259300
+  },
+  {
+    "date": "1987-04",
+    "population": 20289900,
+    "labour_force": 13466600,
+    "emp": 12229500,
+    "full_time_employed": 10186900,
+    "part_time_employed": 2042600,
+    "unemp": 1237100
+  },
+  {
+    "date": "1987-05",
+    "population": 20311500,
+    "labour_force": 13486800,
+    "emp": 12285700,
+    "full_time_employed": 10219900,
+    "part_time_employed": 2065800.0000000002,
+    "unemp": 1201100
+  },
+  {
+    "date": "1987-06",
+    "population": 20339200,
+    "labour_force": 13523200,
+    "emp": 12319400,
+    "full_time_employed": 10261300,
+    "part_time_employed": 2058100,
+    "unemp": 1203800
+  },
+  {
+    "date": "1987-07",
+    "population": 20360600,
+    "labour_force": 13524700,
+    "emp": 12345500,
+    "full_time_employed": 10293600,
+    "part_time_employed": 2051900,
+    "unemp": 1179200
+  },
+  {
+    "date": "1987-08",
+    "population": 20381600,
+    "labour_force": 13543200,
+    "emp": 12376200,
+    "full_time_employed": 10326500,
+    "part_time_employed": 2049699.9999999998,
+    "unemp": 1167000
+  },
+  {
+    "date": "1987-09",
+    "population": 20408300,
+    "labour_force": 13568000,
+    "emp": 12421900,
+    "full_time_employed": 10378300,
+    "part_time_employed": 2043600,
+    "unemp": 1146100
+  },
+  {
+    "date": "1987-10",
+    "population": 20428500,
+    "labour_force": 13617000,
+    "emp": 12487400,
+    "full_time_employed": 10426900,
+    "part_time_employed": 2060500,
+    "unemp": 1129700
+  },
+  {
+    "date": "1987-11",
+    "population": 20448300,
+    "labour_force": 13632600,
+    "emp": 12519400,
+    "full_time_employed": 10429200,
+    "part_time_employed": 2090199.9999999998,
+    "unemp": 1113200
+  },
+  {
+    "date": "1987-12",
+    "population": 20467100,
+    "labour_force": 13680400,
+    "emp": 12583300,
+    "full_time_employed": 10478600,
+    "part_time_employed": 2104700,
+    "unemp": 1097100
+  },
+  {
+    "date": "1988-01",
+    "population": 20489400,
+    "labour_force": 13708400,
+    "emp": 12601900,
+    "full_time_employed": 10494500,
+    "part_time_employed": 2107500,
+    "unemp": 1106500
+  },
+  {
+    "date": "1988-02",
+    "population": 20510800,
+    "labour_force": 13711000,
+    "emp": 12642600,
+    "full_time_employed": 10530000,
+    "part_time_employed": 2112600,
+    "unemp": 1068400
+  },
+  {
+    "date": "1988-03",
+    "population": 20530000,
+    "labour_force": 13730400,
+    "emp": 12662600,
+    "full_time_employed": 10520400,
+    "part_time_employed": 2142300,
+    "unemp": 1067800
+  },
+  {
+    "date": "1988-04",
+    "population": 20550600,
+    "labour_force": 13732300,
+    "emp": 12676000,
+    "full_time_employed": 10532700,
+    "part_time_employed": 2143400,
+    "unemp": 1056200
+  },
+  {
+    "date": "1988-05",
+    "population": 20577900,
+    "labour_force": 13747100,
+    "emp": 12679700,
+    "full_time_employed": 10572500,
+    "part_time_employed": 2107200,
+    "unemp": 1067400
+  },
+  {
+    "date": "1988-06",
+    "population": 20600000,
+    "labour_force": 13742000,
+    "emp": 12698100,
+    "full_time_employed": 10577400,
+    "part_time_employed": 2120700,
+    "unemp": 1043900.0000000001
+  },
+  {
+    "date": "1988-07",
+    "population": 20622000,
+    "labour_force": 13781500,
+    "emp": 12711800,
+    "full_time_employed": 10615100,
+    "part_time_employed": 2096800.0000000002,
+    "unemp": 1069600
+  },
+  {
+    "date": "1988-08",
+    "population": 20650400,
+    "labour_force": 13797700,
+    "emp": 12720000,
+    "full_time_employed": 10584000,
+    "part_time_employed": 2136100,
+    "unemp": 1077600
+  },
+  {
+    "date": "1988-09",
+    "population": 20672500,
+    "labour_force": 13816800,
+    "emp": 12732800,
+    "full_time_employed": 10544300,
+    "part_time_employed": 2188500,
+    "unemp": 1084000
+  },
+  {
+    "date": "1988-10",
+    "population": 20693600,
+    "labour_force": 13842900,
+    "emp": 12765000,
+    "full_time_employed": 10592400,
+    "part_time_employed": 2172600,
+    "unemp": 1077900
+  },
+  {
+    "date": "1988-11",
+    "population": 20714300,
+    "labour_force": 13872600,
+    "emp": 12795800,
+    "full_time_employed": 10608700,
+    "part_time_employed": 2187100,
+    "unemp": 1076800
+  },
+  {
+    "date": "1988-12",
+    "population": 20734500,
+    "labour_force": 13884500,
+    "emp": 12849400,
+    "full_time_employed": 10684300,
+    "part_time_employed": 2165100,
+    "unemp": 1035099.9999999999
+  },
+  {
+    "date": "1989-01",
+    "population": 20763100,
+    "labour_force": 13971600,
+    "emp": 12922000,
+    "full_time_employed": 10742100,
+    "part_time_employed": 2179900,
+    "unemp": 1049600
+  },
+  {
+    "date": "1989-02",
+    "population": 20783300,
+    "labour_force": 13997700,
+    "emp": 12936800,
+    "full_time_employed": 10754100,
+    "part_time_employed": 2182800,
+    "unemp": 1060800
+  },
+  {
+    "date": "1989-03",
+    "population": 20805400,
+    "labour_force": 14041500,
+    "emp": 12982400,
+    "full_time_employed": 10796800,
+    "part_time_employed": 2185600,
+    "unemp": 1059100
+  },
+  {
+    "date": "1989-04",
+    "population": 20828200,
+    "labour_force": 14049700,
+    "emp": 12959900,
+    "full_time_employed": 10803800,
+    "part_time_employed": 2156100,
+    "unemp": 1089800
+  },
+  {
+    "date": "1989-05",
+    "population": 20858600,
+    "labour_force": 14039600,
+    "emp": 12962200,
+    "full_time_employed": 10836700,
+    "part_time_employed": 2125500,
+    "unemp": 1077400
+  },
+  {
+    "date": "1989-06",
+    "population": 20883000,
+    "labour_force": 14030700,
+    "emp": 12979400,
+    "full_time_employed": 10837900,
+    "part_time_employed": 2141500,
+    "unemp": 1051300
+  },
+  {
+    "date": "1989-07",
+    "population": 20907800,
+    "labour_force": 14025900,
+    "emp": 12979800,
+    "full_time_employed": 10896000,
+    "part_time_employed": 2083800.0000000002,
+    "unemp": 1046099.9999999999
+  },
+  {
+    "date": "1989-08",
+    "population": 20938900,
+    "labour_force": 14058800,
+    "emp": 13029100,
+    "full_time_employed": 10932400,
+    "part_time_employed": 2096699.9999999998,
+    "unemp": 1029700
+  },
+  {
+    "date": "1989-09",
+    "population": 20963600,
+    "labour_force": 14062100,
+    "emp": 13029500,
+    "full_time_employed": 10854400,
+    "part_time_employed": 2175100,
+    "unemp": 1032599.9999999999
+  },
+  {
+    "date": "1989-10",
+    "population": 20993600,
+    "labour_force": 14048500,
+    "emp": 13034500,
+    "full_time_employed": 10869500,
+    "part_time_employed": 2165000,
+    "unemp": 1014000
+  },
+  {
+    "date": "1989-11",
+    "population": 21017000,
+    "labour_force": 14114900,
+    "emp": 13059700,
+    "full_time_employed": 10859800,
+    "part_time_employed": 2199900,
+    "unemp": 1055200
+  },
+  {
+    "date": "1989-12",
+    "population": 21039100,
+    "labour_force": 14150000,
+    "emp": 13066800,
+    "full_time_employed": 10866500,
+    "part_time_employed": 2200300,
+    "unemp": 1083200
+  },
+  {
+    "date": "1990-01",
+    "population": 21064500,
+    "labour_force": 14220500,
+    "emp": 13101400,
+    "full_time_employed": 10907200,
+    "part_time_employed": 2194200,
+    "unemp": 1119100
+  },
+  {
+    "date": "1990-02",
+    "population": 21085800,
+    "labour_force": 14228500,
+    "emp": 13134900,
+    "full_time_employed": 10930700,
+    "part_time_employed": 2204200,
+    "unemp": 1093600
+  },
+  {
+    "date": "1990-03",
+    "population": 21109500,
+    "labour_force": 14159900,
+    "emp": 13126100,
+    "full_time_employed": 10903500,
+    "part_time_employed": 2222600,
+    "unemp": 1033800
+  },
+  {
+    "date": "1990-04",
+    "population": 21142700,
+    "labour_force": 14218100,
+    "emp": 13141300,
+    "full_time_employed": 10930100,
+    "part_time_employed": 2211100,
+    "unemp": 1076800
+  },
+  {
+    "date": "1990-05",
+    "population": 21170000,
+    "labour_force": 14207100,
+    "emp": 13101900,
+    "full_time_employed": 10919400,
+    "part_time_employed": 2182500,
+    "unemp": 1105200
+  },
+  {
+    "date": "1990-06",
+    "population": 21197500,
+    "labour_force": 14215200,
+    "emp": 13134400,
+    "full_time_employed": 10935800,
+    "part_time_employed": 2198600,
+    "unemp": 1080800
+  },
+  {
+    "date": "1990-07",
+    "population": 21233100,
+    "labour_force": 14242100,
+    "emp": 13113600,
+    "full_time_employed": 10948400,
+    "part_time_employed": 2165100,
+    "unemp": 1128500
+  },
+  {
+    "date": "1990-08",
+    "population": 21261000,
+    "labour_force": 14262000,
+    "emp": 13100300,
+    "full_time_employed": 10922200,
+    "part_time_employed": 2178100,
+    "unemp": 1161800
+  },
+  {
+    "date": "1990-09",
+    "population": 21286800,
+    "labour_force": 14307600,
+    "emp": 13089500,
+    "full_time_employed": 10842400,
+    "part_time_employed": 2247000,
+    "unemp": 1218100
+  },
+  {
+    "date": "1990-10",
+    "population": 21317200,
+    "labour_force": 14299400,
+    "emp": 13039300,
+    "full_time_employed": 10789400,
+    "part_time_employed": 2250000,
+    "unemp": 1260100
+  },
+  {
+    "date": "1990-11",
+    "population": 21342500,
+    "labour_force": 14291600,
+    "emp": 12985300,
+    "full_time_employed": 10727200,
+    "part_time_employed": 2258100,
+    "unemp": 1306300
+  },
+  {
+    "date": "1990-12",
+    "population": 21366200,
+    "labour_force": 14289800,
+    "emp": 12934700,
+    "full_time_employed": 10655900,
+    "part_time_employed": 2278800,
+    "unemp": 1355000
+  },
+  {
+    "date": "1991-01",
+    "population": 21394700,
+    "labour_force": 14291800,
+    "emp": 12894200,
+    "full_time_employed": 10596000,
+    "part_time_employed": 2298200,
+    "unemp": 1397600
+  },
+  {
+    "date": "1991-02",
+    "population": 21418600,
+    "labour_force": 14297000,
+    "emp": 12845100,
+    "full_time_employed": 10551300,
+    "part_time_employed": 2293900,
+    "unemp": 1451800
+  },
+  {
+    "date": "1991-03",
+    "population": 21443800,
+    "labour_force": 14308800,
+    "emp": 12809200,
+    "full_time_employed": 10517200,
+    "part_time_employed": 2292100,
+    "unemp": 1499500
+  },
+  {
+    "date": "1991-04",
+    "population": 21475800,
+    "labour_force": 14326100,
+    "emp": 12850700,
+    "full_time_employed": 10506100,
+    "part_time_employed": 2344600,
+    "unemp": 1475400
+  },
+  {
+    "date": "1991-05",
+    "population": 21502000,
+    "labour_force": 14347100,
+    "emp": 12879900,
+    "full_time_employed": 10575500,
+    "part_time_employed": 2304400,
+    "unemp": 1467200
+  },
+  {
+    "date": "1991-06",
+    "population": 21528200,
+    "labour_force": 14396700,
+    "emp": 12886300,
+    "full_time_employed": 10557500,
+    "part_time_employed": 2328800,
+    "unemp": 1510400
+  },
+  {
+    "date": "1991-07",
+    "population": 21553800,
+    "labour_force": 14383000,
+    "emp": 12872300,
+    "full_time_employed": 10508300,
+    "part_time_employed": 2364000,
+    "unemp": 1510700
+  },
+  {
+    "date": "1991-08",
+    "population": 21571300,
+    "labour_force": 14388000,
+    "emp": 12876200,
+    "full_time_employed": 10508800,
+    "part_time_employed": 2367500,
+    "unemp": 1511700
+  },
+  {
+    "date": "1991-09",
+    "population": 21595600,
+    "labour_force": 14333300,
+    "emp": 12855400,
+    "full_time_employed": 10521600,
+    "part_time_employed": 2333700,
+    "unemp": 1477900
+  },
+  {
+    "date": "1991-10",
+    "population": 21614400,
+    "labour_force": 14340600,
+    "emp": 12861000,
+    "full_time_employed": 10523000,
+    "part_time_employed": 2338100,
+    "unemp": 1479600
+  },
+  {
+    "date": "1991-11",
+    "population": 21638000,
+    "labour_force": 14304100,
+    "emp": 12823200,
+    "full_time_employed": 10491400,
+    "part_time_employed": 2331900,
+    "unemp": 1480900
+  },
+  {
+    "date": "1991-12",
+    "population": 21663500,
+    "labour_force": 14286100,
+    "emp": 12810200,
+    "full_time_employed": 10498100,
+    "part_time_employed": 2312200,
+    "unemp": 1475900
+  },
+  {
+    "date": "1992-01",
+    "population": 21689100,
+    "labour_force": 14280100,
+    "emp": 12790200,
+    "full_time_employed": 10441500,
+    "part_time_employed": 2348700,
+    "unemp": 1489800
+  },
+  {
+    "date": "1992-02",
+    "population": 21706900,
+    "labour_force": 14268000,
+    "emp": 12771300,
+    "full_time_employed": 10422600,
+    "part_time_employed": 2348700,
+    "unemp": 1496700
+  },
+  {
+    "date": "1992-03",
+    "population": 21735900,
+    "labour_force": 14299200,
+    "emp": 12744900,
+    "full_time_employed": 10385700,
+    "part_time_employed": 2359200,
+    "unemp": 1554300
+  },
+  {
+    "date": "1992-04",
+    "population": 21759000,
+    "labour_force": 14260900,
+    "emp": 12730900,
+    "full_time_employed": 10378900,
+    "part_time_employed": 2352000,
+    "unemp": 1530000
+  },
+  {
+    "date": "1992-05",
+    "population": 21782800,
+    "labour_force": 14301400,
+    "emp": 12736600,
+    "full_time_employed": 10387800,
+    "part_time_employed": 2348800,
+    "unemp": 1564800
+  },
+  {
+    "date": "1992-06",
+    "population": 21811700,
+    "labour_force": 14350500,
+    "emp": 12717300,
+    "full_time_employed": 10398700,
+    "part_time_employed": 2318600,
+    "unemp": 1633200
+  },
+  {
+    "date": "1992-07",
+    "population": 21835000,
+    "labour_force": 14354100,
+    "emp": 12732500,
+    "full_time_employed": 10363400,
+    "part_time_employed": 2369100,
+    "unemp": 1621600
+  },
+  {
+    "date": "1992-08",
+    "population": 21857600,
+    "labour_force": 14371500,
+    "emp": 12693700,
+    "full_time_employed": 10295800,
+    "part_time_employed": 2398000,
+    "unemp": 1677800
+  },
+  {
+    "date": "1992-09",
+    "population": 21885100,
+    "labour_force": 14368200,
+    "emp": 12700100,
+    "full_time_employed": 10331800,
+    "part_time_employed": 2368300,
+    "unemp": 1668100
+  },
+  {
+    "date": "1992-10",
+    "population": 21906400,
+    "labour_force": 14347200,
+    "emp": 12713000,
+    "full_time_employed": 10340500,
+    "part_time_employed": 2372500,
+    "unemp": 1634200
+  },
+  {
+    "date": "1992-11",
+    "population": 21926200,
+    "labour_force": 14453600,
+    "emp": 12704800,
+    "full_time_employed": 10348100,
+    "part_time_employed": 2356600,
+    "unemp": 1748900
+  },
+  {
+    "date": "1992-12",
+    "population": 21946200,
+    "labour_force": 14404700,
+    "emp": 12721900,
+    "full_time_employed": 10341900,
+    "part_time_employed": 2380100,
+    "unemp": 1682700
+  },
+  {
+    "date": "1993-01",
+    "population": 21969300,
+    "labour_force": 14359100,
+    "emp": 12755000,
+    "full_time_employed": 10369200,
+    "part_time_employed": 2385800,
+    "unemp": 1604100
+  },
+  {
+    "date": "1993-02",
+    "population": 21991100,
+    "labour_force": 14333200,
+    "emp": 12763200,
+    "full_time_employed": 10352600,
+    "part_time_employed": 2410600,
+    "unemp": 1570000
+  },
+  {
+    "date": "1993-03",
+    "population": 22012400,
+    "labour_force": 14390300,
+    "emp": 12780700,
+    "full_time_employed": 10370700,
+    "part_time_employed": 2410000,
+    "unemp": 1609600
+  },
+  {
+    "date": "1993-04",
+    "population": 22032800,
+    "labour_force": 14417000,
+    "emp": 12748800,
+    "full_time_employed": 10328900,
+    "part_time_employed": 2419900,
+    "unemp": 1668200
+  },
+  {
+    "date": "1993-05",
+    "population": 22053500,
+    "labour_force": 14431600,
+    "emp": 12755900,
+    "full_time_employed": 10283800,
+    "part_time_employed": 2472200,
+    "unemp": 1675700
+  },
+  {
+    "date": "1993-06",
+    "population": 22082600,
+    "labour_force": 14469700,
+    "emp": 12780000,
+    "full_time_employed": 10277300,
+    "part_time_employed": 2502700,
+    "unemp": 1689700
+  },
+  {
+    "date": "1993-07",
+    "population": 22104900,
+    "labour_force": 14470800,
+    "emp": 12789600,
+    "full_time_employed": 10290300,
+    "part_time_employed": 2499300,
+    "unemp": 1681200
+  },
+  {
+    "date": "1993-08",
+    "population": 22132200,
+    "labour_force": 14430900,
+    "emp": 12808100,
+    "full_time_employed": 10336500,
+    "part_time_employed": 2471700,
+    "unemp": 1622800
+  },
+  {
+    "date": "1993-09",
+    "population": 22154200,
+    "labour_force": 14505000,
+    "emp": 12840500,
+    "full_time_employed": 10363400,
+    "part_time_employed": 2477100,
+    "unemp": 1664500
+  },
+  {
+    "date": "1993-10",
+    "population": 22174900,
+    "labour_force": 14453500,
+    "emp": 12825300,
+    "full_time_employed": 10369200,
+    "part_time_employed": 2456100,
+    "unemp": 1628200
+  },
+  {
+    "date": "1993-11",
+    "population": 22193600,
+    "labour_force": 14505300,
+    "emp": 12873900,
+    "full_time_employed": 10379600,
+    "part_time_employed": 2494300,
+    "unemp": 1631400
+  },
+  {
+    "date": "1993-12",
+    "population": 22212900,
+    "labour_force": 14496100,
+    "emp": 12848400,
+    "full_time_employed": 10358100,
+    "part_time_employed": 2490400,
+    "unemp": 1647700
+  },
+  {
+    "date": "1994-01",
+    "population": 22233700,
+    "labour_force": 14513200,
+    "emp": 12856400,
+    "full_time_employed": 10373200,
+    "part_time_employed": 2483200,
+    "unemp": 1656800
+  },
+  {
+    "date": "1994-02",
+    "population": 22256400,
+    "labour_force": 14492100,
+    "emp": 12889500,
+    "full_time_employed": 10397700,
+    "part_time_employed": 2491800,
+    "unemp": 1602600
+  },
+  {
+    "date": "1994-03",
+    "population": 22279100,
+    "labour_force": 14458400,
+    "emp": 12928600,
+    "full_time_employed": 10422000,
+    "part_time_employed": 2506600,
+    "unemp": 1529800
+  },
+  {
+    "date": "1994-04",
+    "population": 22302600,
+    "labour_force": 14527700,
+    "emp": 12940700,
+    "full_time_employed": 10454900,
+    "part_time_employed": 2485800,
+    "unemp": 1587000
+  },
+  {
+    "date": "1994-05",
+    "population": 22332600,
+    "labour_force": 14565800,
+    "emp": 13012400,
+    "full_time_employed": 10548800,
+    "part_time_employed": 2463600,
+    "unemp": 1553400
+  },
+  {
+    "date": "1994-06",
+    "population": 22356200,
+    "labour_force": 14543500,
+    "emp": 13041500,
+    "full_time_employed": 10570200,
+    "part_time_employed": 2471300,
+    "unemp": 1501900
+  },
+  {
+    "date": "1994-07",
+    "population": 22380700,
+    "labour_force": 14564700,
+    "emp": 13098500,
+    "full_time_employed": 10617500,
+    "part_time_employed": 2481000,
+    "unemp": 1466300
+  },
+  {
+    "date": "1994-08",
+    "population": 22411100,
+    "labour_force": 14601300,
+    "emp": 13115200,
+    "full_time_employed": 10628400,
+    "part_time_employed": 2486800,
+    "unemp": 1486000
+  },
+  {
+    "date": "1994-09",
+    "population": 22433500,
+    "labour_force": 14664800,
+    "emp": 13176900,
+    "full_time_employed": 10689800,
+    "part_time_employed": 2487100,
+    "unemp": 1487900
+  },
+  {
+    "date": "1994-10",
+    "population": 22455200,
+    "labour_force": 14626200,
+    "emp": 13168800,
+    "full_time_employed": 10692200,
+    "part_time_employed": 2476700,
+    "unemp": 1457400
+  },
+  {
+    "date": "1994-11",
+    "population": 22476200,
+    "labour_force": 14676600,
+    "emp": 13259200,
+    "full_time_employed": 10803200,
+    "part_time_employed": 2456000,
+    "unemp": 1417500
+  },
+  {
+    "date": "1994-12",
+    "population": 22495700,
+    "labour_force": 14653200,
+    "emp": 13245800,
+    "full_time_employed": 10814700,
+    "part_time_employed": 2431100,
+    "unemp": 1407400
+  },
+  {
+    "date": "1995-01",
+    "population": 22524700,
+    "labour_force": 14672000,
+    "emp": 13269500,
+    "full_time_employed": 10802600,
+    "part_time_employed": 2466800,
+    "unemp": 1402600
+  },
+  {
+    "date": "1995-02",
+    "population": 22545800,
+    "labour_force": 14662700,
+    "emp": 13262300,
+    "full_time_employed": 10813300,
+    "part_time_employed": 2449000,
+    "unemp": 1400400
+  },
+  {
+    "date": "1995-03",
+    "population": 22568600,
+    "labour_force": 14719600,
+    "emp": 13290500,
+    "full_time_employed": 10839600,
+    "part_time_employed": 2451000,
+    "unemp": 1429100
+  },
+  {
+    "date": "1995-04",
+    "population": 22592900,
+    "labour_force": 14656500,
+    "emp": 13268900,
+    "full_time_employed": 10793800,
+    "part_time_employed": 2475100,
+    "unemp": 1387700
+  },
+  {
+    "date": "1995-05",
+    "population": 22623500,
+    "labour_force": 14660600,
+    "emp": 13265800,
+    "full_time_employed": 10755800,
+    "part_time_employed": 2510000,
+    "unemp": 1394700
+  },
+  {
+    "date": "1995-06",
+    "population": 22647900,
+    "labour_force": 14672900,
+    "emp": 13278200,
+    "full_time_employed": 10770600,
+    "part_time_employed": 2507600,
+    "unemp": 1394700
+  },
+  {
+    "date": "1995-07",
+    "population": 22672600,
+    "labour_force": 14698900,
+    "emp": 13280600,
+    "full_time_employed": 10784300,
+    "part_time_employed": 2496300,
+    "unemp": 1418300
+  },
+  {
+    "date": "1995-08",
+    "population": 22702900,
+    "labour_force": 14701600,
+    "emp": 13297800,
+    "full_time_employed": 10801300,
+    "part_time_employed": 2496400,
+    "unemp": 1403800
+  },
+  {
+    "date": "1995-09",
+    "population": 22725800,
+    "labour_force": 14688100,
+    "emp": 13331200,
+    "full_time_employed": 10813100,
+    "part_time_employed": 2518100,
+    "unemp": 1356900
+  },
+  {
+    "date": "1995-10",
+    "population": 22749700,
+    "labour_force": 14716600,
+    "emp": 13347000,
+    "full_time_employed": 10842600,
+    "part_time_employed": 2504400,
+    "unemp": 1369600
+  },
+  {
+    "date": "1995-11",
+    "population": 22772300,
+    "labour_force": 14672000,
+    "emp": 13315000,
+    "full_time_employed": 10790800,
+    "part_time_employed": 2524300,
+    "unemp": 1357000
+  },
+  {
+    "date": "1995-12",
+    "population": 22793600,
+    "labour_force": 14736500,
+    "emp": 13356800,
+    "full_time_employed": 10793200,
+    "part_time_employed": 2563600,
+    "unemp": 1379700
+  },
+  {
+    "date": "1996-01",
+    "population": 22821000,
+    "labour_force": 14769600,
+    "emp": 13374500,
+    "full_time_employed": 10815000,
+    "part_time_employed": 2559500,
+    "unemp": 1395100
+  },
+  {
+    "date": "1996-02",
+    "population": 22844700,
+    "labour_force": 14810200,
+    "emp": 13399400,
+    "full_time_employed": 10827000,
+    "part_time_employed": 2572300,
+    "unemp": 1410800
+  },
+  {
+    "date": "1996-03",
+    "population": 22868700,
+    "labour_force": 14790300,
+    "emp": 13377200,
+    "full_time_employed": 10833900,
+    "part_time_employed": 2543300,
+    "unemp": 1413100
+  },
+  {
+    "date": "1996-04",
+    "population": 22892200,
+    "labour_force": 14780800,
+    "emp": 13404100,
+    "full_time_employed": 10865200,
+    "part_time_employed": 2538800,
+    "unemp": 1376700
+  },
+  {
+    "date": "1996-05",
+    "population": 22922400,
+    "labour_force": 14793600,
+    "emp": 13425600,
+    "full_time_employed": 10867400,
+    "part_time_employed": 2558200,
+    "unemp": 1368000
+  },
+  {
+    "date": "1996-06",
+    "population": 22945900,
+    "labour_force": 14866200,
+    "emp": 13412900,
+    "full_time_employed": 10865800,
+    "part_time_employed": 2547100,
+    "unemp": 1453300
+  },
+  {
+    "date": "1996-07",
+    "population": 22976200,
+    "labour_force": 14891600,
+    "emp": 13440400,
+    "full_time_employed": 10907400,
+    "part_time_employed": 2533000,
+    "unemp": 1451200
+  },
+  {
+    "date": "1996-08",
+    "population": 23000000,
+    "labour_force": 14859500,
+    "emp": 13456600,
+    "full_time_employed": 10929000,
+    "part_time_employed": 2527600,
+    "unemp": 1402900
+  },
+  {
+    "date": "1996-09",
+    "population": 23028400,
+    "labour_force": 14889600,
+    "emp": 13414400,
+    "full_time_employed": 10855700,
+    "part_time_employed": 2558700,
+    "unemp": 1475200
+  },
+  {
+    "date": "1996-10",
+    "population": 23050400,
+    "labour_force": 14892200,
+    "emp": 13412800,
+    "full_time_employed": 10872800,
+    "part_time_employed": 2540000,
+    "unemp": 1479300
+  },
+  {
+    "date": "1996-11",
+    "population": 23071900,
+    "labour_force": 14912800,
+    "emp": 13441500,
+    "full_time_employed": 10872000,
+    "part_time_employed": 2569600,
+    "unemp": 1471300
+  },
+  {
+    "date": "1996-12",
+    "population": 23092000,
+    "labour_force": 14918800,
+    "emp": 13465700,
+    "full_time_employed": 10872500,
+    "part_time_employed": 2593200,
+    "unemp": 1453100
+  },
+  {
+    "date": "1997-01",
+    "population": 23114700,
+    "labour_force": 14951900,
+    "emp": 13535900,
+    "full_time_employed": 10948200,
+    "part_time_employed": 2587700,
+    "unemp": 1416000
+  },
+  {
+    "date": "1997-02",
+    "population": 23134500,
+    "labour_force": 14961800,
+    "emp": 13538100,
+    "full_time_employed": 10930700,
+    "part_time_employed": 2607400,
+    "unemp": 1423700
+  },
+  {
+    "date": "1997-03",
+    "population": 23156300,
+    "labour_force": 14968100,
+    "emp": 13569800,
+    "full_time_employed": 10937000,
+    "part_time_employed": 2632800,
+    "unemp": 1398200
+  },
+  {
+    "date": "1997-04",
+    "population": 23185100,
+    "labour_force": 14986500,
+    "emp": 13571200,
+    "full_time_employed": 10959900,
+    "part_time_employed": 2611300,
+    "unemp": 1415300
+  },
+  {
+    "date": "1997-05",
+    "population": 23208600,
+    "labour_force": 15045200,
+    "emp": 13637200,
+    "full_time_employed": 11028400,
+    "part_time_employed": 2608800,
+    "unemp": 1408000
+  },
+  {
+    "date": "1997-06",
+    "population": 23237400,
+    "labour_force": 15066200,
+    "emp": 13690000,
+    "full_time_employed": 11133300,
+    "part_time_employed": 2556600,
+    "unemp": 1376200
+  },
+  {
+    "date": "1997-07",
+    "population": 23260100,
+    "labour_force": 15075900,
+    "emp": 13731500,
+    "full_time_employed": 11080300,
+    "part_time_employed": 2651200,
+    "unemp": 1344400
+  },
+  {
+    "date": "1997-08",
+    "population": 23283500,
+    "labour_force": 15143700,
+    "emp": 13798900,
+    "full_time_employed": 11124600,
+    "part_time_employed": 2674300,
+    "unemp": 1344800
+  },
+  {
+    "date": "1997-09",
+    "population": 23312700,
+    "labour_force": 15155200,
+    "emp": 13815900,
+    "full_time_employed": 11221000,
+    "part_time_employed": 2595000,
+    "unemp": 1339300
+  },
+  {
+    "date": "1997-10",
+    "population": 23335300,
+    "labour_force": 15180500,
+    "emp": 13833100,
+    "full_time_employed": 11206300,
+    "part_time_employed": 2626800,
+    "unemp": 1347400
+  },
+  {
+    "date": "1997-11",
+    "population": 23356400,
+    "labour_force": 15205800,
+    "emp": 13859500,
+    "full_time_employed": 11233600,
+    "part_time_employed": 2625900,
+    "unemp": 1346300
+  },
+  {
+    "date": "1997-12",
+    "population": 23375400,
+    "labour_force": 15158000,
+    "emp": 13874900,
+    "full_time_employed": 11295600,
+    "part_time_employed": 2579200,
+    "unemp": 1283100
+  },
+  {
+    "date": "1998-01",
+    "population": 23397500,
+    "labour_force": 15202800,
+    "emp": 13864800,
+    "full_time_employed": 11286200,
+    "part_time_employed": 2578700,
+    "unemp": 1337900
+  },
+  {
+    "date": "1998-02",
+    "population": 23419200,
+    "labour_force": 15217100,
+    "emp": 13914500,
+    "full_time_employed": 11327700,
+    "part_time_employed": 2586800,
+    "unemp": 1302600
+  },
+  {
+    "date": "1998-03",
+    "population": 23438600,
+    "labour_force": 15222900,
+    "emp": 13949400,
+    "full_time_employed": 11328600,
+    "part_time_employed": 2620800,
+    "unemp": 1273400
+  },
+  {
+    "date": "1998-04",
+    "population": 23459900,
+    "labour_force": 15238500,
+    "emp": 13977600,
+    "full_time_employed": 11322400,
+    "part_time_employed": 2655200,
+    "unemp": 1260900
+  },
+  {
+    "date": "1998-05",
+    "population": 23482100,
+    "labour_force": 15257600,
+    "emp": 13993300,
+    "full_time_employed": 11366900,
+    "part_time_employed": 2626400,
+    "unemp": 1264300
+  },
+  {
+    "date": "1998-06",
+    "population": 23509500,
+    "labour_force": 15284100,
+    "emp": 14005800,
+    "full_time_employed": 11383500,
+    "part_time_employed": 2622300,
+    "unemp": 1278200
+  },
+  {
+    "date": "1998-07",
+    "population": 23528900,
+    "labour_force": 15333400,
+    "emp": 14063800,
+    "full_time_employed": 11392900,
+    "part_time_employed": 2670900,
+    "unemp": 1269600
+  },
+  {
+    "date": "1998-08",
+    "population": 23547600,
+    "labour_force": 15341400,
+    "emp": 14101700,
+    "full_time_employed": 11441700,
+    "part_time_employed": 2660000,
+    "unemp": 1239700
+  },
+  {
+    "date": "1998-09",
+    "population": 23572200,
+    "labour_force": 15405400,
+    "emp": 14140700,
+    "full_time_employed": 11473400,
+    "part_time_employed": 2667300,
+    "unemp": 1264700
+  },
+  {
+    "date": "1998-10",
+    "population": 23592300,
+    "labour_force": 15392500,
+    "emp": 14159400,
+    "full_time_employed": 11508700,
+    "part_time_employed": 2650700,
+    "unemp": 1233100
+  },
+  {
+    "date": "1998-11",
+    "population": 23611500,
+    "labour_force": 15439100,
+    "emp": 14198900,
+    "full_time_employed": 11524900,
+    "part_time_employed": 2674100,
+    "unemp": 1240200
+  },
+  {
+    "date": "1998-12",
+    "population": 23629500,
+    "labour_force": 15459000,
+    "emp": 14200000,
+    "full_time_employed": 11498900,
+    "part_time_employed": 2701100,
+    "unemp": 1259000
+  },
+  {
+    "date": "1999-01",
+    "population": 23650900,
+    "labour_force": 15499400,
+    "emp": 14273300,
+    "full_time_employed": 11592200,
+    "part_time_employed": 2681200,
+    "unemp": 1226000
+  },
+  {
+    "date": "1999-02",
+    "population": 23672200,
+    "labour_force": 15486600,
+    "emp": 14263300,
+    "full_time_employed": 11612200,
+    "part_time_employed": 2651000,
+    "unemp": 1223300
+  },
+  {
+    "date": "1999-03",
+    "population": 23693500,
+    "labour_force": 15497700,
+    "emp": 14278700,
+    "full_time_employed": 11643700,
+    "part_time_employed": 2635000,
+    "unemp": 1219000
+  },
+  {
+    "date": "1999-04",
+    "population": 23716000,
+    "labour_force": 15592500,
+    "emp": 14316600,
+    "full_time_employed": 11693400,
+    "part_time_employed": 2623200,
+    "unemp": 1275900
+  },
+  {
+    "date": "1999-05",
+    "population": 23739900,
+    "labour_force": 15591500,
+    "emp": 14352700,
+    "full_time_employed": 11731600,
+    "part_time_employed": 2621100,
+    "unemp": 1238800
+  },
+  {
+    "date": "1999-06",
+    "population": 23769700,
+    "labour_force": 15553300,
+    "emp": 14373000,
+    "full_time_employed": 11721400,
+    "part_time_employed": 2651500,
+    "unemp": 1180300
+  },
+  {
+    "date": "1999-07",
+    "population": 23792900,
+    "labour_force": 15610200,
+    "emp": 14430900,
+    "full_time_employed": 11754300,
+    "part_time_employed": 2676500,
+    "unemp": 1179300
+  },
+  {
+    "date": "1999-08",
+    "population": 23820600,
+    "labour_force": 15610600,
+    "emp": 14451800,
+    "full_time_employed": 11769000,
+    "part_time_employed": 2682800,
+    "unemp": 1158900
+  },
+  {
+    "date": "1999-09",
+    "population": 23844800,
+    "labour_force": 15645900,
+    "emp": 14474600,
+    "full_time_employed": 11816200,
+    "part_time_employed": 2658400,
+    "unemp": 1171300
+  },
+  {
+    "date": "1999-10",
+    "population": 23869200,
+    "labour_force": 15640300,
+    "emp": 14514700,
+    "full_time_employed": 11864400,
+    "part_time_employed": 2650200,
+    "unemp": 1125600
+  },
+  {
+    "date": "1999-11",
+    "population": 23892800,
+    "labour_force": 15633500,
+    "emp": 14549400,
+    "full_time_employed": 11923400,
+    "part_time_employed": 2626000,
+    "unemp": 1084100
+  },
+  {
+    "date": "1999-12",
+    "population": 23915000,
+    "labour_force": 15671100,
+    "emp": 14611300,
+    "full_time_employed": 11978400,
+    "part_time_employed": 2632900,
+    "unemp": 1059800
+  },
+  {
+    "date": "2000-01",
+    "population": 23937800,
+    "labour_force": 15720800,
+    "emp": 14652700,
+    "full_time_employed": 12006900,
+    "part_time_employed": 2645900,
+    "unemp": 1068100
+  },
+  {
+    "date": "2000-02",
+    "population": 23963500,
+    "labour_force": 15753300,
+    "emp": 14672200,
+    "full_time_employed": 12027300,
+    "part_time_employed": 2645000,
+    "unemp": 1081100
+  },
+  {
+    "date": "2000-03",
+    "population": 23988600,
+    "labour_force": 15779800,
+    "emp": 14697500,
+    "full_time_employed": 12061500,
+    "part_time_employed": 2636000,
+    "unemp": 1082300
+  },
+  {
+    "date": "2000-04",
+    "population": 24014600,
+    "labour_force": 15787200,
+    "emp": 14722700,
+    "full_time_employed": 12034400,
+    "part_time_employed": 2688200,
+    "unemp": 1064500
+  },
+  {
+    "date": "2000-05",
+    "population": 24048500,
+    "labour_force": 15783800,
+    "emp": 14736400,
+    "full_time_employed": 12076600,
+    "part_time_employed": 2659800,
+    "unemp": 1047500
+  },
+  {
+    "date": "2000-06",
+    "population": 24076300,
+    "labour_force": 15807800,
+    "emp": 14746800,
+    "full_time_employed": 12074900,
+    "part_time_employed": 2671900,
+    "unemp": 1061000
+  },
+  {
+    "date": "2000-07",
+    "population": 24102500,
+    "labour_force": 15818500,
+    "emp": 14750400,
+    "full_time_employed": 12079500,
+    "part_time_employed": 2670900,
+    "unemp": 1068000
+  },
+  {
+    "date": "2000-08",
+    "population": 24134600,
+    "labour_force": 15883500,
+    "emp": 14770300,
+    "full_time_employed": 12082300,
+    "part_time_employed": 2688000,
+    "unemp": 1113100
+  },
+  {
+    "date": "2000-09",
+    "population": 24162100,
+    "labour_force": 15916300,
+    "emp": 14812200,
+    "full_time_employed": 12081800,
+    "part_time_employed": 2730400,
+    "unemp": 1104100
+  },
+  {
+    "date": "2000-10",
+    "population": 24189600,
+    "labour_force": 15955700,
+    "emp": 14835300,
+    "full_time_employed": 12138800,
+    "part_time_employed": 2696500,
+    "unemp": 1120400
+  },
+  {
+    "date": "2000-11",
+    "population": 24216400,
+    "labour_force": 15982100,
+    "emp": 14871400,
+    "full_time_employed": 12203600,
+    "part_time_employed": 2667800,
+    "unemp": 1110700
+  },
+  {
+    "date": "2000-12",
+    "population": 24241900,
+    "labour_force": 16003200,
+    "emp": 14920000,
+    "full_time_employed": 12219900,
+    "part_time_employed": 2700100,
+    "unemp": 1083200
+  },
+  {
+    "date": "2001-01",
+    "population": 24255300,
+    "labour_force": 15994500,
+    "emp": 14894400,
+    "full_time_employed": 12196300,
+    "part_time_employed": 2698000,
+    "unemp": 1100100
+  },
+  {
+    "date": "2001-02",
+    "population": 24280400,
+    "labour_force": 16004400,
+    "emp": 14883900,
+    "full_time_employed": 12202300,
+    "part_time_employed": 2681500,
+    "unemp": 1120500
+  },
+  {
+    "date": "2001-03",
+    "population": 24308100,
+    "labour_force": 16033200,
+    "emp": 14888700,
+    "full_time_employed": 12202600,
+    "part_time_employed": 2686100,
+    "unemp": 1144600
+  },
+  {
+    "date": "2001-04",
+    "population": 24344900,
+    "labour_force": 16066900,
+    "emp": 14922300,
+    "full_time_employed": 12221100,
+    "part_time_employed": 2701200,
+    "unemp": 1144700
+  },
+  {
+    "date": "2001-05",
+    "population": 24375100,
+    "labour_force": 16076900,
+    "emp": 14946200,
+    "full_time_employed": 12219500,
+    "part_time_employed": 2726700,
+    "unemp": 1130600
+  },
+  {
+    "date": "2001-06",
+    "population": 24406300,
+    "labour_force": 16085100,
+    "emp": 14922500,
+    "full_time_employed": 12218300,
+    "part_time_employed": 2704200,
+    "unemp": 1162600
+  },
+  {
+    "date": "2001-07",
+    "population": 24442100,
+    "labour_force": 16083900,
+    "emp": 14946300,
+    "full_time_employed": 12187200,
+    "part_time_employed": 2759100,
+    "unemp": 1137700
+  },
+  {
+    "date": "2001-08",
+    "population": 24470700,
+    "labour_force": 16112400,
+    "emp": 14948500,
+    "full_time_employed": 12262600,
+    "part_time_employed": 2685900,
+    "unemp": 1163900
+  },
+  {
+    "date": "2001-09",
+    "population": 24498400,
+    "labour_force": 16131500,
+    "emp": 14972800,
+    "full_time_employed": 12273000,
+    "part_time_employed": 2699800,
+    "unemp": 1158700
+  },
+  {
+    "date": "2001-10",
+    "population": 24525100,
+    "labour_force": 16159800,
+    "emp": 14976900,
+    "full_time_employed": 12274000,
+    "part_time_employed": 2702900,
+    "unemp": 1182900
+  },
+  {
+    "date": "2001-11",
+    "population": 24550900,
+    "labour_force": 16199700,
+    "emp": 14990300,
+    "full_time_employed": 12240700,
+    "part_time_employed": 2749600,
+    "unemp": 1209400
+  },
+  {
+    "date": "2001-12",
+    "population": 24575000,
+    "labour_force": 16276100,
+    "emp": 14965600,
+    "full_time_employed": 12199900,
+    "part_time_employed": 2765700,
+    "unemp": 1310400
+  },
+  {
+    "date": "2002-01",
+    "population": 24608400,
+    "labour_force": 16327400,
+    "emp": 15019400,
+    "full_time_employed": 12223100,
+    "part_time_employed": 2796300,
+    "unemp": 1307900
+  },
+  {
+    "date": "2002-02",
+    "population": 24634000,
+    "labour_force": 16338500,
+    "emp": 15042300,
+    "full_time_employed": 12262000,
+    "part_time_employed": 2780300,
+    "unemp": 1296200
+  },
+  {
+    "date": "2002-03",
+    "population": 24662400,
+    "labour_force": 16412200,
+    "emp": 15120500,
+    "full_time_employed": 12308200,
+    "part_time_employed": 2812400,
+    "unemp": 1291700
+  },
+  {
+    "date": "2002-04",
+    "population": 24699400,
+    "labour_force": 16432500,
+    "emp": 15167800,
+    "full_time_employed": 12331300,
+    "part_time_employed": 2836500,
+    "unemp": 1264800
+  },
+  {
+    "date": "2002-05",
+    "population": 24729800,
+    "labour_force": 16503599.999999998,
+    "emp": 15222200,
+    "full_time_employed": 12382300,
+    "part_time_employed": 2839900,
+    "unemp": 1281300
+  },
+  {
+    "date": "2002-06",
+    "population": 24761000,
+    "labour_force": 16543300,
+    "emp": 15284300,
+    "full_time_employed": 12438400,
+    "part_time_employed": 2845900,
+    "unemp": 1259000
+  },
+  {
+    "date": "2002-07",
+    "population": 24795800,
+    "labour_force": 16592800,
+    "emp": 15324200,
+    "full_time_employed": 12491800,
+    "part_time_employed": 2832400,
+    "unemp": 1268600
+  },
+  {
+    "date": "2002-08",
+    "population": 24818600,
+    "labour_force": 16641800,
+    "emp": 15406900,
+    "full_time_employed": 12516600,
+    "part_time_employed": 2890300,
+    "unemp": 1235000
+  },
+  {
+    "date": "2002-09",
+    "population": 24845800,
+    "labour_force": 16665099.999999998,
+    "emp": 15405200,
+    "full_time_employed": 12504800,
+    "part_time_employed": 2900400,
+    "unemp": 1259900
+  },
+  {
+    "date": "2002-10",
+    "population": 24868100,
+    "labour_force": 16686500,
+    "emp": 15419100,
+    "full_time_employed": 12471600,
+    "part_time_employed": 2947500,
+    "unemp": 1267400
+  },
+  {
+    "date": "2002-11",
+    "population": 24889700,
+    "labour_force": 16723400.000000002,
+    "emp": 15467200,
+    "full_time_employed": 12537900,
+    "part_time_employed": 2929300,
+    "unemp": 1256200
+  },
+  {
+    "date": "2002-12",
+    "population": 24909800,
+    "labour_force": 16792700,
+    "emp": 15524700,
+    "full_time_employed": 12576100,
+    "part_time_employed": 2948600,
+    "unemp": 1268000
+  },
+  {
+    "date": "2003-01",
+    "population": 24932700,
+    "labour_force": 16797000,
+    "emp": 15544200,
+    "full_time_employed": 12600900,
+    "part_time_employed": 2943300,
+    "unemp": 1252800
+  },
+  {
+    "date": "2003-02",
+    "population": 24953800,
+    "labour_force": 16859000,
+    "emp": 15601600,
+    "full_time_employed": 12633200,
+    "part_time_employed": 2968400,
+    "unemp": 1257500
+  },
+  {
+    "date": "2003-03",
+    "population": 24978600,
+    "labour_force": 16852400,
+    "emp": 15609700,
+    "full_time_employed": 12655600,
+    "part_time_employed": 2954000,
+    "unemp": 1242700
+  },
+  {
+    "date": "2003-04",
+    "population": 25009700,
+    "labour_force": 16876800,
+    "emp": 15593200,
+    "full_time_employed": 12661800,
+    "part_time_employed": 2931400,
+    "unemp": 1283600
+  },
+  {
+    "date": "2003-05",
+    "population": 25035100,
+    "labour_force": 16899500,
+    "emp": 15574800,
+    "full_time_employed": 12646700,
+    "part_time_employed": 2928000,
+    "unemp": 1324700
+  },
+  {
+    "date": "2003-06",
+    "population": 25068700,
+    "labour_force": 16912600,
+    "emp": 15627100,
+    "full_time_employed": 12649600,
+    "part_time_employed": 2977500,
+    "unemp": 1285500
+  },
+  {
+    "date": "2003-07",
+    "population": 25095900,
+    "labour_force": 16954400,
+    "emp": 15648400,
+    "full_time_employed": 12696100,
+    "part_time_employed": 2952300,
+    "unemp": 1306100
+  },
+  {
+    "date": "2003-08",
+    "population": 25121700,
+    "labour_force": 16967300,
+    "emp": 15638900,
+    "full_time_employed": 12653600,
+    "part_time_employed": 2985300,
+    "unemp": 1328400
+  },
+  {
+    "date": "2003-09",
+    "population": 25154000,
+    "labour_force": 17010100,
+    "emp": 15674700,
+    "full_time_employed": 12655200,
+    "part_time_employed": 3019600,
+    "unemp": 1335400
+  },
+  {
+    "date": "2003-10",
+    "population": 25179600,
+    "labour_force": 17019100,
+    "emp": 15729500,
+    "full_time_employed": 12759500,
+    "part_time_employed": 2970000,
+    "unemp": 1289600
+  },
+  {
+    "date": "2003-11",
+    "population": 25203700,
+    "labour_force": 17045500,
+    "emp": 15778500,
+    "full_time_employed": 12790800,
+    "part_time_employed": 2987700,
+    "unemp": 1267000
+  },
+  {
+    "date": "2003-12",
+    "population": 25225600,
+    "labour_force": 17074400,
+    "emp": 15821100,
+    "full_time_employed": 12826700,
+    "part_time_employed": 2994500,
+    "unemp": 1253300
+  },
+  {
+    "date": "2004-01",
+    "population": 25250000,
+    "labour_force": 17069900,
+    "emp": 15819700,
+    "full_time_employed": 12864000,
+    "part_time_employed": 2955700,
+    "unemp": 1250200
+  },
+  {
+    "date": "2004-02",
+    "population": 25276500,
+    "labour_force": 17075400,
+    "emp": 15826900,
+    "full_time_employed": 12890300,
+    "part_time_employed": 2936700,
+    "unemp": 1248500
+  },
+  {
+    "date": "2004-03",
+    "population": 25302800,
+    "labour_force": 17087200,
+    "emp": 15836300,
+    "full_time_employed": 12928000,
+    "part_time_employed": 2908300,
+    "unemp": 1250900
+  },
+  {
+    "date": "2004-04",
+    "population": 25330100,
+    "labour_force": 17113600,
+    "emp": 15882700,
+    "full_time_employed": 12967400,
+    "part_time_employed": 2915300,
+    "unemp": 1230900
+  },
+  {
+    "date": "2004-05",
+    "population": 25358700,
+    "labour_force": 17108600,
+    "emp": 15900900,
+    "full_time_employed": 12964300,
+    "part_time_employed": 2936700,
+    "unemp": 1207700
+  },
+  {
+    "date": "2004-06",
+    "population": 25395600,
+    "labour_force": 17164000,
+    "emp": 15923900,
+    "full_time_employed": 12985800,
+    "part_time_employed": 2938200,
+    "unemp": 1240100
+  },
+  {
+    "date": "2004-07",
+    "population": 25425100,
+    "labour_force": 17148300,
+    "emp": 15937600,
+    "full_time_employed": 12958200,
+    "part_time_employed": 2979400,
+    "unemp": 1210700
+  },
+  {
+    "date": "2004-08",
+    "population": 25459900,
+    "labour_force": 17146800,
+    "emp": 15945400,
+    "full_time_employed": 12978800,
+    "part_time_employed": 2966600,
+    "unemp": 1201400
+  },
+  {
+    "date": "2004-09",
+    "population": 25487300,
+    "labour_force": 17170700,
+    "emp": 15978900,
+    "full_time_employed": 13033000,
+    "part_time_employed": 2945800,
+    "unemp": 1191800
+  },
+  {
+    "date": "2004-10",
+    "population": 25513400,
+    "labour_force": 17203400,
+    "emp": 15989600,
+    "full_time_employed": 13036300,
+    "part_time_employed": 2953300,
+    "unemp": 1213800
+  },
+  {
+    "date": "2004-11",
+    "population": 25537200,
+    "labour_force": 17249100,
+    "emp": 16008300,
+    "full_time_employed": 13026900,
+    "part_time_employed": 2981400,
+    "unemp": 1240800
+  },
+  {
+    "date": "2004-12",
+    "population": 25560200,
+    "labour_force": 17252000,
+    "emp": 16022800,
+    "full_time_employed": 13039900,
+    "part_time_employed": 2982900,
+    "unemp": 1229200
+  },
+  {
+    "date": "2005-01",
+    "population": 25585500,
+    "labour_force": 17226100,
+    "emp": 16034000,
+    "full_time_employed": 13066500,
+    "part_time_employed": 2967500,
+    "unemp": 1192100
+  },
+  {
+    "date": "2005-02",
+    "population": 25613500,
+    "labour_force": 17254400,
+    "emp": 16047100,
+    "full_time_employed": 13080200,
+    "part_time_employed": 2966900,
+    "unemp": 1207300
+  },
+  {
+    "date": "2005-03",
+    "population": 25640900,
+    "labour_force": 17230800,
+    "emp": 16046500,
+    "full_time_employed": 13072600,
+    "part_time_employed": 2973800,
+    "unemp": 1184300
+  },
+  {
+    "date": "2005-04",
+    "population": 25668900,
+    "labour_force": 17233300,
+    "emp": 16072300,
+    "full_time_employed": 13107600,
+    "part_time_employed": 2964600,
+    "unemp": 1161000
+  },
+  {
+    "date": "2005-05",
+    "population": 25706500,
+    "labour_force": 17285100,
+    "emp": 16076700,
+    "full_time_employed": 13083100,
+    "part_time_employed": 2993500,
+    "unemp": 1208400
+  },
+  {
+    "date": "2005-06",
+    "population": 25738600,
+    "labour_force": 17277700,
+    "emp": 16101800,
+    "full_time_employed": 13156400,
+    "part_time_employed": 2945400,
+    "unemp": 1175900
+  },
+  {
+    "date": "2005-07",
+    "population": 25771700,
+    "labour_force": 17300700,
+    "emp": 16142200,
+    "full_time_employed": 13171700,
+    "part_time_employed": 2970500,
+    "unemp": 1158500
+  },
+  {
+    "date": "2005-08",
+    "population": 25810400,
+    "labour_force": 17349000,
+    "emp": 16186600,
+    "full_time_employed": 13211600,
+    "part_time_employed": 2975000,
+    "unemp": 1162400
+  },
+  {
+    "date": "2005-09",
+    "population": 25839500,
+    "labour_force": 17331900,
+    "emp": 16172200,
+    "full_time_employed": 13216500,
+    "part_time_employed": 2955700,
+    "unemp": 1159700
+  },
+  {
+    "date": "2005-10",
+    "population": 25867300,
+    "labour_force": 17372500,
+    "emp": 16211700,
+    "full_time_employed": 13197300,
+    "part_time_employed": 3014500,
+    "unemp": 1160800
+  },
+  {
+    "date": "2005-11",
+    "population": 25894400,
+    "labour_force": 17338100,
+    "emp": 16241200,
+    "full_time_employed": 13255200,
+    "part_time_employed": 2986000,
+    "unemp": 1096900
+  },
+  {
+    "date": "2005-12",
+    "population": 25918900,
+    "labour_force": 17373600,
+    "emp": 16232300,
+    "full_time_employed": 13277200,
+    "part_time_employed": 2955100,
+    "unemp": 1141300
+  },
+  {
+    "date": "2006-01",
+    "population": 25953300,
+    "labour_force": 17436600,
+    "emp": 16261000,
+    "full_time_employed": 13283900,
+    "part_time_employed": 2977100,
+    "unemp": 1175600
+  },
+  {
+    "date": "2006-02",
+    "population": 25978800,
+    "labour_force": 17439100,
+    "emp": 16292200,
+    "full_time_employed": 13284400,
+    "part_time_employed": 3007800,
+    "unemp": 1146900
+  },
+  {
+    "date": "2006-03",
+    "population": 26007000,
+    "labour_force": 17479800,
+    "emp": 16347300,
+    "full_time_employed": 13337700,
+    "part_time_employed": 3009600,
+    "unemp": 1132500
+  },
+  {
+    "date": "2006-04",
+    "population": 26036500,
+    "labour_force": 17516900,
+    "emp": 16383500,
+    "full_time_employed": 13399600,
+    "part_time_employed": 2984000,
+    "unemp": 1133400
+  },
+  {
+    "date": "2006-05",
+    "population": 26074900,
+    "labour_force": 17544900,
+    "emp": 16450400.000000002,
+    "full_time_employed": 13473900,
+    "part_time_employed": 2976500,
+    "unemp": 1094500
+  },
+  {
+    "date": "2006-06",
+    "population": 26106800,
+    "labour_force": 17538700,
+    "emp": 16432500,
+    "full_time_employed": 13421100,
+    "part_time_employed": 3011500,
+    "unemp": 1106100
+  },
+  {
+    "date": "2006-07",
+    "population": 26139100,
+    "labour_force": 17587900,
+    "emp": 16440400.000000002,
+    "full_time_employed": 13441400,
+    "part_time_employed": 2999100,
+    "unemp": 1147500
+  },
+  {
+    "date": "2006-08",
+    "population": 26177300,
+    "labour_force": 17584700,
+    "emp": 16435700,
+    "full_time_employed": 13482800,
+    "part_time_employed": 2952800,
+    "unemp": 1149000
+  },
+  {
+    "date": "2006-09",
+    "population": 26206500,
+    "labour_force": 17613000,
+    "emp": 16468000,
+    "full_time_employed": 13500400,
+    "part_time_employed": 2967600,
+    "unemp": 1145000
+  },
+  {
+    "date": "2006-10",
+    "population": 26234100,
+    "labour_force": 17605400,
+    "emp": 16487500,
+    "full_time_employed": 13505600,
+    "part_time_employed": 2981900,
+    "unemp": 1117800
+  },
+  {
+    "date": "2006-11",
+    "population": 26260800,
+    "labour_force": 17641300,
+    "emp": 16487500,
+    "full_time_employed": 13469700,
+    "part_time_employed": 3017800,
+    "unemp": 1153700
+  },
+  {
+    "date": "2006-12",
+    "population": 26285900,
+    "labour_force": 17671400,
+    "emp": 16549599.999999998,
+    "full_time_employed": 13512900,
+    "part_time_employed": 3036800,
+    "unemp": 1121800
+  },
+  {
+    "date": "2007-01",
+    "population": 26314700,
+    "labour_force": 17743500,
+    "emp": 16615000,
+    "full_time_employed": 13546800,
+    "part_time_employed": 3068200,
+    "unemp": 1128500
+  },
+  {
+    "date": "2007-02",
+    "population": 26335500,
+    "labour_force": 17748800,
+    "emp": 16636400.000000002,
+    "full_time_employed": 13576600,
+    "part_time_employed": 3059800,
+    "unemp": 1112300
+  },
+  {
+    "date": "2007-03",
+    "population": 26359900,
+    "labour_force": 17783700,
+    "emp": 16664800,
+    "full_time_employed": 13575900,
+    "part_time_employed": 3088800,
+    "unemp": 1118900
+  },
+  {
+    "date": "2007-04",
+    "population": 26391400,
+    "labour_force": 17775400,
+    "emp": 16658599.999999998,
+    "full_time_employed": 13573200,
+    "part_time_employed": 3085400,
+    "unemp": 1116900
+  },
+  {
+    "date": "2007-05",
+    "population": 26419300,
+    "labour_force": 17775600,
+    "emp": 16682099.999999998,
+    "full_time_employed": 13633600,
+    "part_time_employed": 3048500,
+    "unemp": 1093400
+  },
+  {
+    "date": "2007-06",
+    "population": 26449300,
+    "labour_force": 17822300,
+    "emp": 16728200,
+    "full_time_employed": 13716200,
+    "part_time_employed": 3012000,
+    "unemp": 1094100
+  },
+  {
+    "date": "2007-07",
+    "population": 26486500,
+    "labour_force": 17872300,
+    "emp": 16796200,
+    "full_time_employed": 13755200,
+    "part_time_employed": 3041000,
+    "unemp": 1076100
+  },
+  {
+    "date": "2007-08",
+    "population": 26517500,
+    "labour_force": 17886200,
+    "emp": 16817500,
+    "full_time_employed": 13748000,
+    "part_time_employed": 3069500,
+    "unemp": 1068700
+  },
+  {
+    "date": "2007-09",
+    "population": 26547000,
+    "labour_force": 17915200,
+    "emp": 16836200,
+    "full_time_employed": 13736900,
+    "part_time_employed": 3099300,
+    "unemp": 1079000
+  },
+  {
+    "date": "2007-10",
+    "population": 26576000,
+    "labour_force": 17967300,
+    "emp": 16883700,
+    "full_time_employed": 13749100,
+    "part_time_employed": 3134600,
+    "unemp": 1083700
+  },
+  {
+    "date": "2007-11",
+    "population": 26603700,
+    "labour_force": 18009200,
+    "emp": 16904800,
+    "full_time_employed": 13764600,
+    "part_time_employed": 3140200,
+    "unemp": 1104300
+  },
+  {
+    "date": "2007-12",
+    "population": 26629200,
+    "labour_force": 18017000,
+    "emp": 16907100,
+    "full_time_employed": 13775000,
+    "part_time_employed": 3132100,
+    "unemp": 1110000
+  },
+  {
+    "date": "2008-01",
+    "population": 26659000,
+    "labour_force": 18039400,
+    "emp": 16932200,
+    "full_time_employed": 13829000,
+    "part_time_employed": 3103200,
+    "unemp": 1107200
+  },
+  {
+    "date": "2008-02",
+    "population": 26683200,
+    "labour_force": 18073500,
+    "emp": 16967500,
+    "full_time_employed": 13844800,
+    "part_time_employed": 3122700,
+    "unemp": 1106000
+  },
+  {
+    "date": "2008-03",
+    "population": 26710700,
+    "labour_force": 18085700,
+    "emp": 16972100,
+    "full_time_employed": 13834600,
+    "part_time_employed": 3137500,
+    "unemp": 1113600
+  },
+  {
+    "date": "2008-04",
+    "population": 26744900,
+    "labour_force": 18089500,
+    "emp": 16971800,
+    "full_time_employed": 13846500,
+    "part_time_employed": 3125400,
+    "unemp": 1117700
+  },
+  {
+    "date": "2008-05",
+    "population": 26775500,
+    "labour_force": 18103000,
+    "emp": 16986800,
+    "full_time_employed": 13846400,
+    "part_time_employed": 3140400,
+    "unemp": 1116300
+  },
+  {
+    "date": "2008-06",
+    "population": 26816100,
+    "labour_force": 18109600,
+    "emp": 16996200,
+    "full_time_employed": 13833700,
+    "part_time_employed": 3162500,
+    "unemp": 1113400
+  },
+  {
+    "date": "2008-07",
+    "population": 26849800,
+    "labour_force": 18094600,
+    "emp": 16980900,
+    "full_time_employed": 13829300,
+    "part_time_employed": 3151600,
+    "unemp": 1113700
+  },
+  {
+    "date": "2008-08",
+    "population": 26881700,
+    "labour_force": 18119700,
+    "emp": 17003300,
+    "full_time_employed": 13855000,
+    "part_time_employed": 3148300,
+    "unemp": 1116400
+  },
+  {
+    "date": "2008-09",
+    "population": 26918400,
+    "labour_force": 18176300,
+    "emp": 17025400,
+    "full_time_employed": 13784700,
+    "part_time_employed": 3240800,
+    "unemp": 1150900
+  },
+  {
+    "date": "2008-10",
+    "population": 26948500,
+    "labour_force": 18241600,
+    "emp": 17070500,
+    "full_time_employed": 13822700,
+    "part_time_employed": 3247800,
+    "unemp": 1171100
+  },
+  {
+    "date": "2008-11",
+    "population": 26976800,
+    "labour_force": 18201900,
+    "emp": 16982700,
+    "full_time_employed": 13789800,
+    "part_time_employed": 3192900,
+    "unemp": 1219200
+  },
+  {
+    "date": "2008-12",
+    "population": 27003200,
+    "labour_force": 18250700,
+    "emp": 16972300,
+    "full_time_employed": 13756900,
+    "part_time_employed": 3215400,
+    "unemp": 1278400
+  },
+  {
+    "date": "2009-01",
+    "population": 27030700,
+    "labour_force": 18196400,
+    "emp": 16824700,
+    "full_time_employed": 13636200,
+    "part_time_employed": 3188500,
+    "unemp": 1371700
+  },
+  {
+    "date": "2009-02",
+    "population": 27061000,
+    "labour_force": 18261400,
+    "emp": 16782400,
+    "full_time_employed": 13547000,
+    "part_time_employed": 3235300,
+    "unemp": 1479000
+  },
+  {
+    "date": "2009-03",
+    "population": 27090100,
+    "labour_force": 18284400,
+    "emp": 16756400.000000002,
+    "full_time_employed": 13498700,
+    "part_time_employed": 3257600,
+    "unemp": 1528000
+  },
+  {
+    "date": "2009-04",
+    "population": 27120600,
+    "labour_force": 18269000,
+    "emp": 16730800,
+    "full_time_employed": 13466900,
+    "part_time_employed": 3263900,
+    "unemp": 1538200
+  },
+  {
+    "date": "2009-05",
+    "population": 27152300,
+    "labour_force": 18327200,
+    "emp": 16740700,
+    "full_time_employed": 13450500,
+    "part_time_employed": 3290200,
+    "unemp": 1586500
+  },
+  {
+    "date": "2009-06",
+    "population": 27193600,
+    "labour_force": 18325400,
+    "emp": 16712700,
+    "full_time_employed": 13396500,
+    "part_time_employed": 3316100,
+    "unemp": 1612700
+  },
+  {
+    "date": "2009-07",
+    "population": 27226900,
+    "labour_force": 18309000,
+    "emp": 16702800,
+    "full_time_employed": 13443400,
+    "part_time_employed": 3259500,
+    "unemp": 1606200
+  },
+  {
+    "date": "2009-08",
+    "population": 27259500,
+    "labour_force": 18302900,
+    "emp": 16702700,
+    "full_time_employed": 13398200,
+    "part_time_employed": 3304600,
+    "unemp": 1600200
+  },
+  {
+    "date": "2009-09",
+    "population": 27297200,
+    "labour_force": 18302600,
+    "emp": 16743800,
+    "full_time_employed": 13472200,
+    "part_time_employed": 3271600,
+    "unemp": 1558800
+  },
+  {
+    "date": "2009-10",
+    "population": 27326600,
+    "labour_force": 18324200,
+    "emp": 16753300,
+    "full_time_employed": 13527300,
+    "part_time_employed": 3225900,
+    "unemp": 1570900
+  },
+  {
+    "date": "2009-11",
+    "population": 27353100,
+    "labour_force": 18403600,
+    "emp": 16824700,
+    "full_time_employed": 13571200,
+    "part_time_employed": 3253500,
+    "unemp": 1578900
+  },
+  {
+    "date": "2009-12",
+    "population": 27377100,
+    "labour_force": 18374600,
+    "emp": 16797400,
+    "full_time_employed": 13541500,
+    "part_time_employed": 3255900,
+    "unemp": 1577200
+  },
+  {
+    "date": "2010-01",
+    "population": 27403500,
+    "labour_force": 18361400,
+    "emp": 16825000,
+    "full_time_employed": 13576000,
+    "part_time_employed": 3248900,
+    "unemp": 1536400
+  },
+  {
+    "date": "2010-02",
+    "population": 27432000,
+    "labour_force": 18356700,
+    "emp": 16818000,
+    "full_time_employed": 13600100,
+    "part_time_employed": 3217900,
+    "unemp": 1538700
+  },
+  {
+    "date": "2010-03",
+    "population": 27460800,
+    "labour_force": 18393400,
+    "emp": 16861700,
+    "full_time_employed": 13606200,
+    "part_time_employed": 3255500,
+    "unemp": 1531700
+  },
+  {
+    "date": "2010-04",
+    "population": 27491000,
+    "labour_force": 18441500,
+    "emp": 16928500,
+    "full_time_employed": 13599900,
+    "part_time_employed": 3328600,
+    "unemp": 1513000
+  },
+  {
+    "date": "2010-05",
+    "population": 27522500,
+    "labour_force": 18454100,
+    "emp": 16946800,
+    "full_time_employed": 13662600,
+    "part_time_employed": 3284200,
+    "unemp": 1507300
+  },
+  {
+    "date": "2010-06",
+    "population": 27563600,
+    "labour_force": 18510900,
+    "emp": 17024600,
+    "full_time_employed": 13701100,
+    "part_time_employed": 3323500,
+    "unemp": 1486300
+  },
+  {
+    "date": "2010-07",
+    "population": 27597800,
+    "labour_force": 18551200,
+    "emp": 17036500,
+    "full_time_employed": 13596800,
+    "part_time_employed": 3439700,
+    "unemp": 1514700
+  },
+  {
+    "date": "2010-08",
+    "population": 27635900,
+    "labour_force": 18590500,
+    "emp": 17062100,
+    "full_time_employed": 13668800,
+    "part_time_employed": 3393300,
+    "unemp": 1528500
+  },
+  {
+    "date": "2010-09",
+    "population": 27664200,
+    "labour_force": 18579000,
+    "emp": 17058400,
+    "full_time_employed": 13684400,
+    "part_time_employed": 3374100,
+    "unemp": 1520600
+  },
+  {
+    "date": "2010-10",
+    "population": 27690700,
+    "labour_force": 18541700,
+    "emp": 17044300,
+    "full_time_employed": 13696300,
+    "part_time_employed": 3348000,
+    "unemp": 1497400
+  },
+  {
+    "date": "2010-11",
+    "population": 27714900,
+    "labour_force": 18545900,
+    "emp": 17089400,
+    "full_time_employed": 13723600,
+    "part_time_employed": 3365900,
+    "unemp": 1456500
+  },
+  {
+    "date": "2010-12",
+    "population": 27737100,
+    "labour_force": 18571700,
+    "emp": 17117400,
+    "full_time_employed": 13779100,
+    "part_time_employed": 3338200,
+    "unemp": 1454400
+  },
+  {
+    "date": "2011-01",
+    "population": 27758700,
+    "labour_force": 18646500,
+    "emp": 17187200,
+    "full_time_employed": 13796400,
+    "part_time_employed": 3390800,
+    "unemp": 1459200
+  },
+  {
+    "date": "2011-02",
+    "population": 27781200,
+    "labour_force": 18633500,
+    "emp": 17174800,
+    "full_time_employed": 13774400,
+    "part_time_employed": 3400400,
+    "unemp": 1458700
+  },
+  {
+    "date": "2011-03",
+    "population": 27804500,
+    "labour_force": 18633900,
+    "emp": 17173700,
+    "full_time_employed": 13845000,
+    "part_time_employed": 3328700,
+    "unemp": 1460200
+  },
+  {
+    "date": "2011-04",
+    "population": 27829600,
+    "labour_force": 18675600,
+    "emp": 17222100,
+    "full_time_employed": 13896700,
+    "part_time_employed": 3325400,
+    "unemp": 1453500
+  },
+  {
+    "date": "2011-05",
+    "population": 27861000,
+    "labour_force": 18625000,
+    "emp": 17187400,
+    "full_time_employed": 13835100,
+    "part_time_employed": 3352400,
+    "unemp": 1437600
+  },
+  {
+    "date": "2011-06",
+    "population": 27885900,
+    "labour_force": 18654800,
+    "emp": 17218800,
+    "full_time_employed": 13836300,
+    "part_time_employed": 3382500,
+    "unemp": 1435900
+  },
+  {
+    "date": "2011-07",
+    "population": 27913700,
+    "labour_force": 18642900,
+    "emp": 17256400,
+    "full_time_employed": 13911900,
+    "part_time_employed": 3344400,
+    "unemp": 1386600
+  },
+  {
+    "date": "2011-08",
+    "population": 27948700,
+    "labour_force": 18654200,
+    "emp": 17269400,
+    "full_time_employed": 13934000,
+    "part_time_employed": 3335400,
+    "unemp": 1384800
+  },
+  {
+    "date": "2011-09",
+    "population": 27975400,
+    "labour_force": 18665500,
+    "emp": 17272000,
+    "full_time_employed": 13941300,
+    "part_time_employed": 3330700,
+    "unemp": 1393600
+  },
+  {
+    "date": "2011-10",
+    "population": 28000700,
+    "labour_force": 18665000,
+    "emp": 17258000,
+    "full_time_employed": 13923300,
+    "part_time_employed": 3334700,
+    "unemp": 1407000
+  },
+  {
+    "date": "2011-11",
+    "population": 28025400,
+    "labour_force": 18669100,
+    "emp": 17241400,
+    "full_time_employed": 13912500,
+    "part_time_employed": 3328800,
+    "unemp": 1427700
+  },
+  {
+    "date": "2011-12",
+    "population": 28049200,
+    "labour_force": 18660400,
+    "emp": 17258200,
+    "full_time_employed": 13954200,
+    "part_time_employed": 3304000,
+    "unemp": 1402200
+  },
+  {
+    "date": "2012-01",
+    "population": 28074200,
+    "labour_force": 18708800,
+    "emp": 17270100,
+    "full_time_employed": 13941800,
+    "part_time_employed": 3328300,
+    "unemp": 1438700
+  },
+  {
+    "date": "2012-02",
+    "population": 28098900,
+    "labour_force": 18665500,
+    "emp": 17245000,
+    "full_time_employed": 13924500,
+    "part_time_employed": 3320600,
+    "unemp": 1420500
+  },
+  {
+    "date": "2012-03",
+    "population": 28124000,
+    "labour_force": 18715500,
+    "emp": 17338600,
+    "full_time_employed": 14011300,
+    "part_time_employed": 3327400,
+    "unemp": 1376900
+  },
+  {
+    "date": "2012-04",
+    "population": 28157400,
+    "labour_force": 18814600,
+    "emp": 17416200,
+    "full_time_employed": 14043900,
+    "part_time_employed": 3372300,
+    "unemp": 1398400
+  },
+  {
+    "date": "2012-05",
+    "population": 28185100,
+    "labour_force": 18834900,
+    "emp": 17412200,
+    "full_time_employed": 14057600,
+    "part_time_employed": 3354600,
+    "unemp": 1422700
+  },
+  {
+    "date": "2012-06",
+    "population": 28215500,
+    "labour_force": 18799000,
+    "emp": 17414700,
+    "full_time_employed": 14085500,
+    "part_time_employed": 3329200,
+    "unemp": 1384300
+  },
+  {
+    "date": "2012-07",
+    "population": 28252500,
+    "labour_force": 18818900,
+    "emp": 17439800,
+    "full_time_employed": 14130000,
+    "part_time_employed": 3309800,
+    "unemp": 1379100
+  },
+  {
+    "date": "2012-08",
+    "population": 28277500,
+    "labour_force": 18884100,
+    "emp": 17486000,
+    "full_time_employed": 14168500,
+    "part_time_employed": 3317500,
+    "unemp": 1398100
+  },
+  {
+    "date": "2012-09",
+    "population": 28301600,
+    "labour_force": 18929000,
+    "emp": 17534500,
+    "full_time_employed": 14220700,
+    "part_time_employed": 3313800,
+    "unemp": 1394500
+  },
+  {
+    "date": "2012-10",
+    "population": 28327000,
+    "labour_force": 18942800,
+    "emp": 17543200,
+    "full_time_employed": 14247400,
+    "part_time_employed": 3295900,
+    "unemp": 1399600
+  },
+  {
+    "date": "2012-11",
+    "population": 28351500,
+    "labour_force": 18967000,
+    "emp": 17563800,
+    "full_time_employed": 14257300,
+    "part_time_employed": 3306500,
+    "unemp": 1403200
+  },
+  {
+    "date": "2012-12",
+    "population": 28373900,
+    "labour_force": 18989600,
+    "emp": 17609500,
+    "full_time_employed": 14271600,
+    "part_time_employed": 3338000,
+    "unemp": 1380100
+  },
+  {
+    "date": "2013-01",
+    "population": 28398700,
+    "labour_force": 18955700,
+    "emp": 17600700,
+    "full_time_employed": 14220600,
+    "part_time_employed": 3380000,
+    "unemp": 1355000
+  },
+  {
+    "date": "2013-02",
+    "population": 28415900,
+    "labour_force": 19019700,
+    "emp": 17676100,
+    "full_time_employed": 14276900,
+    "part_time_employed": 3399200,
+    "unemp": 1343500
+  },
+  {
+    "date": "2013-03",
+    "population": 28440300,
+    "labour_force": 18991600,
+    "emp": 17610400,
+    "full_time_employed": 14229600,
+    "part_time_employed": 3380800,
+    "unemp": 1381200
+  },
+  {
+    "date": "2013-04",
+    "population": 28473400,
+    "labour_force": 19011200,
+    "emp": 17641300,
+    "full_time_employed": 14280000,
+    "part_time_employed": 3361400,
+    "unemp": 1369900
+  },
+  {
+    "date": "2013-05",
+    "population": 28501200,
+    "labour_force": 19036000,
+    "emp": 17692500,
+    "full_time_employed": 14333300,
+    "part_time_employed": 3359200,
+    "unemp": 1343500
+  },
+  {
+    "date": "2013-06",
+    "population": 28530400,
+    "labour_force": 19044900,
+    "emp": 17682100,
+    "full_time_employed": 14270200,
+    "part_time_employed": 3411900,
+    "unemp": 1362900
+  },
+  {
+    "date": "2013-07",
+    "population": 28564600,
+    "labour_force": 19044400,
+    "emp": 17650100,
+    "full_time_employed": 14271800,
+    "part_time_employed": 3378300,
+    "unemp": 1394300
+  },
+  {
+    "date": "2013-08",
+    "population": 28588400,
+    "labour_force": 19060200,
+    "emp": 17677900,
+    "full_time_employed": 14263900,
+    "part_time_employed": 3413900,
+    "unemp": 1382300
+  },
+  {
+    "date": "2013-09",
+    "population": 28617000,
+    "labour_force": 19018200,
+    "emp": 17659600,
+    "full_time_employed": 14264000,
+    "part_time_employed": 3395600,
+    "unemp": 1358600
+  },
+  {
+    "date": "2013-10",
+    "population": 28639600,
+    "labour_force": 19048000,
+    "emp": 17664400,
+    "full_time_employed": 14281800,
+    "part_time_employed": 3382600,
+    "unemp": 1383600
+  },
+  {
+    "date": "2013-11",
+    "population": 28660500,
+    "labour_force": 19049800,
+    "emp": 17691300,
+    "full_time_employed": 14288300,
+    "part_time_employed": 3403000,
+    "unemp": 1358400
+  },
+  {
+    "date": "2013-12",
+    "population": 28679900,
+    "labour_force": 19076700,
+    "emp": 17668900,
+    "full_time_employed": 14253200,
+    "part_time_employed": 3415700,
+    "unemp": 1407800
+  },
+  {
+    "date": "2014-01",
+    "population": 28699100,
+    "labour_force": 19051000,
+    "emp": 17666400,
+    "full_time_employed": 14265500,
+    "part_time_employed": 3400900,
+    "unemp": 1384600
+  },
+  {
+    "date": "2014-02",
+    "population": 28716500,
+    "labour_force": 19047500,
+    "emp": 17662700,
+    "full_time_employed": 14286700,
+    "part_time_employed": 3376000,
+    "unemp": 1384800
+  },
+  {
+    "date": "2014-03",
+    "population": 28740800,
+    "labour_force": 19051200,
+    "emp": 17699400,
+    "full_time_employed": 14263500,
+    "part_time_employed": 3435900,
+    "unemp": 1351800
+  },
+  {
+    "date": "2014-04",
+    "population": 28771700,
+    "labour_force": 19050300,
+    "emp": 17691200,
+    "full_time_employed": 14249200,
+    "part_time_employed": 3442100,
+    "unemp": 1359000
+  },
+  {
+    "date": "2014-05",
+    "population": 28798200,
+    "labour_force": 19079800,
+    "emp": 17687700,
+    "full_time_employed": 14223800,
+    "part_time_employed": 3463900,
+    "unemp": 1392100
+  },
+  {
+    "date": "2014-06",
+    "population": 28832000,
+    "labour_force": 19098600,
+    "emp": 17720500,
+    "full_time_employed": 14296900,
+    "part_time_employed": 3423600,
+    "unemp": 1378100
+  },
+  {
+    "date": "2014-07",
+    "population": 28857300,
+    "labour_force": 19130600,
+    "emp": 17771900,
+    "full_time_employed": 14280800,
+    "part_time_employed": 3491100,
+    "unemp": 1358700
+  },
+  {
+    "date": "2014-08",
+    "population": 28877300,
+    "labour_force": 19059800,
+    "emp": 17723700,
+    "full_time_employed": 14250500,
+    "part_time_employed": 3473200,
+    "unemp": 1336100
+  },
+  {
+    "date": "2014-09",
+    "population": 28898800,
+    "labour_force": 19097300,
+    "emp": 17756000,
+    "full_time_employed": 14320400,
+    "part_time_employed": 3435600,
+    "unemp": 1341400
+  },
+  {
+    "date": "2014-10",
+    "population": 28913900,
+    "labour_force": 19083500,
+    "emp": 17782200,
+    "full_time_employed": 14330300,
+    "part_time_employed": 3451800,
+    "unemp": 1301400
+  },
+  {
+    "date": "2014-11",
+    "population": 28929600,
+    "labour_force": 19084700,
+    "emp": 17784500,
+    "full_time_employed": 14302100,
+    "part_time_employed": 3482400,
+    "unemp": 1300200
+  },
+  {
+    "date": "2014-12",
+    "population": 28944100,
+    "labour_force": 19094200,
+    "emp": 17821700,
+    "full_time_employed": 14388200,
+    "part_time_employed": 3433500,
+    "unemp": 1272500
+  },
+  {
+    "date": "2015-01",
+    "population": 28954200,
+    "labour_force": 19106300,
+    "emp": 17813100,
+    "full_time_employed": 14395800,
+    "part_time_employed": 3417300,
+    "unemp": 1293200
+  },
+  {
+    "date": "2015-02",
+    "population": 28965900,
+    "labour_force": 19148100,
+    "emp": 17827200,
+    "full_time_employed": 14412900,
+    "part_time_employed": 3414300,
+    "unemp": 1320800
+  },
+  {
+    "date": "2015-03",
+    "population": 28981900,
+    "labour_force": 19183900,
+    "emp": 17854100,
+    "full_time_employed": 14431100,
+    "part_time_employed": 3423000,
+    "unemp": 1329800
+  },
+  {
+    "date": "2015-04",
+    "population": 29000400,
+    "labour_force": 19156600,
+    "emp": 17819400,
+    "full_time_employed": 14424400,
+    "part_time_employed": 3395000,
+    "unemp": 1337200
+  },
+  {
+    "date": "2015-05",
+    "population": 29020200,
+    "labour_force": 19168400,
+    "emp": 17843700,
+    "full_time_employed": 14442900,
+    "part_time_employed": 3400800,
+    "unemp": 1324700
+  },
+  {
+    "date": "2015-06",
+    "population": 29048800,
+    "labour_force": 19163300,
+    "emp": 17836700,
+    "full_time_employed": 14501600,
+    "part_time_employed": 3335100,
+    "unemp": 1326600
+  },
+  {
+    "date": "2015-07",
+    "population": 29074300,
+    "labour_force": 19199200,
+    "emp": 17863300,
+    "full_time_employed": 14521000,
+    "part_time_employed": 3342300,
+    "unemp": 1336000
+  },
+  {
+    "date": "2015-08",
+    "population": 29099500,
+    "labour_force": 19247300,
+    "emp": 17889000,
+    "full_time_employed": 14538800,
+    "part_time_employed": 3350200,
+    "unemp": 1358300
+  },
+  {
+    "date": "2015-09",
+    "population": 29129500,
+    "labour_force": 19258600,
+    "emp": 17890200,
+    "full_time_employed": 14486800,
+    "part_time_employed": 3403400,
+    "unemp": 1368400
+  },
+  {
+    "date": "2015-10",
+    "population": 29152400,
+    "labour_force": 19250600,
+    "emp": 17899100,
+    "full_time_employed": 14513400,
+    "part_time_employed": 3385700,
+    "unemp": 1351500
+  },
+  {
+    "date": "2015-11",
+    "population": 29173100,
+    "labour_force": 19246800,
+    "emp": 17872600,
+    "full_time_employed": 14539000,
+    "part_time_employed": 3333600,
+    "unemp": 1374200
+  },
+  {
+    "date": "2015-12",
+    "population": 29193600,
+    "labour_force": 19264800,
+    "emp": 17867400,
+    "full_time_employed": 14482700,
+    "part_time_employed": 3384700,
+    "unemp": 1397400
+  },
+  {
+    "date": "2016-01",
+    "population": 29218700,
+    "labour_force": 19267700,
+    "emp": 17871600,
+    "full_time_employed": 14481600,
+    "part_time_employed": 3390000,
+    "unemp": 1396100
+  },
+  {
+    "date": "2016-02",
+    "population": 29249300,
+    "labour_force": 19297100,
+    "emp": 17889000,
+    "full_time_employed": 14466900,
+    "part_time_employed": 3422200,
+    "unemp": 1408100
+  },
+  {
+    "date": "2016-03",
+    "population": 29274300,
+    "labour_force": 19290000,
+    "emp": 17892800,
+    "full_time_employed": 14487500,
+    "part_time_employed": 3405300,
+    "unemp": 1397200
+  },
+  {
+    "date": "2016-04",
+    "population": 29298900,
+    "labour_force": 19333500,
+    "emp": 17919700,
+    "full_time_employed": 14464800,
+    "part_time_employed": 3454900,
+    "unemp": 1413800
+  },
+  {
+    "date": "2016-05",
+    "population": 29333500,
+    "labour_force": 19309500,
+    "emp": 17947400,
+    "full_time_employed": 14519600,
+    "part_time_employed": 3427800,
+    "unemp": 1362100
+  },
+  {
+    "date": "2016-06",
+    "population": 29366100,
+    "labour_force": 19299600,
+    "emp": 17954500,
+    "full_time_employed": 14499400,
+    "part_time_employed": 3455100,
+    "unemp": 1345100
+  },
+  {
+    "date": "2016-07",
+    "population": 29400700,
+    "labour_force": 19290000,
+    "emp": 17943200,
+    "full_time_employed": 14472300,
+    "part_time_employed": 3470900,
+    "unemp": 1346800
+  },
+  {
+    "date": "2016-08",
+    "population": 29436700,
+    "labour_force": 19329100,
+    "emp": 17994200,
+    "full_time_employed": 14530700,
+    "part_time_employed": 3463500,
+    "unemp": 1334900
+  },
+  {
+    "date": "2016-09",
+    "population": 29465700,
+    "labour_force": 19385300,
+    "emp": 18032500,
+    "full_time_employed": 14525600,
+    "part_time_employed": 3506900,
+    "unemp": 1352700
+  },
+  {
+    "date": "2016-10",
+    "population": 29492900,
+    "labour_force": 19392200,
+    "emp": 18051200,
+    "full_time_employed": 14490300,
+    "part_time_employed": 3561000,
+    "unemp": 1341000
+  },
+  {
+    "date": "2016-11",
+    "population": 29518300,
+    "labour_force": 19402500,
+    "emp": 18076000,
+    "full_time_employed": 14511100,
+    "part_time_employed": 3564900,
+    "unemp": 1326500
+  },
+  {
+    "date": "2016-12",
+    "population": 29542600,
+    "labour_force": 19453100,
+    "emp": 18104000,
+    "full_time_employed": 14558200,
+    "part_time_employed": 3545800,
+    "unemp": 1349100
+  },
+  {
+    "date": "2017-01",
+    "population": 29575400,
+    "labour_force": 19511500,
+    "emp": 18172500,
+    "full_time_employed": 14581500,
+    "part_time_employed": 3591000,
+    "unemp": 1339100
+  },
+  {
+    "date": "2017-02",
+    "population": 29601200,
+    "labour_force": 19512400,
+    "emp": 18216600,
+    "full_time_employed": 14669400,
+    "part_time_employed": 3547200,
+    "unemp": 1295800
+  },
+  {
+    "date": "2017-03",
+    "population": 29632800,
+    "labour_force": 19549100,
+    "emp": 18241500,
+    "full_time_employed": 14677200,
+    "part_time_employed": 3564300,
+    "unemp": 1307700
+  },
+  {
+    "date": "2017-04",
+    "population": 29664600,
+    "labour_force": 19544700,
+    "emp": 18271600,
+    "full_time_employed": 14711400,
+    "part_time_employed": 3560300,
+    "unemp": 1273000
+  },
+  {
+    "date": "2017-05",
+    "population": 29705000,
+    "labour_force": 19615700,
+    "emp": 18312900,
+    "full_time_employed": 14765600,
+    "part_time_employed": 3547300,
+    "unemp": 1302800
+  },
+  {
+    "date": "2017-06",
+    "population": 29739500,
+    "labour_force": 19647300,
+    "emp": 18371400,
+    "full_time_employed": 14805800,
+    "part_time_employed": 3565600,
+    "unemp": 1275900
+  },
+  {
+    "date": "2017-07",
+    "population": 29776200,
+    "labour_force": 19653700,
+    "emp": 18416900,
+    "full_time_employed": 14878600,
+    "part_time_employed": 3538300,
+    "unemp": 1236700
+  },
+  {
+    "date": "2017-08",
+    "population": 29821400,
+    "labour_force": 19661700,
+    "emp": 18436400,
+    "full_time_employed": 14802600,
+    "part_time_employed": 3633800,
+    "unemp": 1225300
+  },
+  {
+    "date": "2017-09",
+    "population": 29855700,
+    "labour_force": 19668000,
+    "emp": 18442500,
+    "full_time_employed": 14920400,
+    "part_time_employed": 3522100,
+    "unemp": 1225500
+  },
+  {
+    "date": "2017-10",
+    "population": 29889300,
+    "labour_force": 19721900,
+    "emp": 18475100,
+    "full_time_employed": 14940200,
+    "part_time_employed": 3534900,
+    "unemp": 1246800
+  },
+  {
+    "date": "2017-11",
+    "population": 29921700,
+    "labour_force": 19766200,
+    "emp": 18550500,
+    "full_time_employed": 14991000,
+    "part_time_employed": 3559600,
+    "unemp": 1215700
+  },
+  {
+    "date": "2017-12",
+    "population": 29953300,
+    "labour_force": 19818000,
+    "emp": 18619700,
+    "full_time_employed": 15007800,
+    "part_time_employed": 3611900,
+    "unemp": 1198300
+  },
+  {
+    "date": "2018-01",
+    "population": 29996800,
+    "labour_force": 19745700,
+    "emp": 18576800,
+    "full_time_employed": 15067700,
+    "part_time_employed": 3509100,
+    "unemp": 1168900
+  },
+  {
+    "date": "2018-02",
+    "population": 30027700,
+    "labour_force": 19758500,
+    "emp": 18570300,
+    "full_time_employed": 15032600,
+    "part_time_employed": 3537700,
+    "unemp": 1188300
+  },
+  {
+    "date": "2018-03",
+    "population": 30065100,
+    "labour_force": 19785100,
+    "emp": 18630100,
+    "full_time_employed": 15118700,
+    "part_time_employed": 3511400,
+    "unemp": 1155000
+  },
+  {
+    "date": "2018-04",
+    "population": 30112800,
+    "labour_force": 19757100,
+    "emp": 18613000,
+    "full_time_employed": 15161900,
+    "part_time_employed": 3451100,
+    "unemp": 1144100
+  },
+  {
+    "date": "2018-05",
+    "population": 30152100,
+    "labour_force": 19781900,
+    "emp": 18621700,
+    "full_time_employed": 15115300,
+    "part_time_employed": 3506400,
+    "unemp": 1160200
+  },
+  {
+    "date": "2018-06",
+    "population": 30193100,
+    "labour_force": 19861200,
+    "emp": 18677600,
+    "full_time_employed": 15142600,
+    "part_time_employed": 3535000,
+    "unemp": 1183600
+  },
+  {
+    "date": "2018-07",
+    "population": 30241000,
+    "labour_force": 19936400,
+    "emp": 18763900,
+    "full_time_employed": 15191000,
+    "part_time_employed": 3573000,
+    "unemp": 1172400
+  },
+  {
+    "date": "2018-08",
+    "population": 30273200,
+    "labour_force": 19900900,
+    "emp": 18704700,
+    "full_time_employed": 15199200,
+    "part_time_employed": 3505500,
+    "unemp": 1196200
+  },
+  {
+    "date": "2018-09",
+    "population": 30305200,
+    "labour_force": 19948100,
+    "emp": 18797500,
+    "full_time_employed": 15197500,
+    "part_time_employed": 3600000,
+    "unemp": 1150600
+  },
+  {
+    "date": "2018-10",
+    "population": 30337300,
+    "labour_force": 19933400,
+    "emp": 18814900,
+    "full_time_employed": 15254100,
+    "part_time_employed": 3560900,
+    "unemp": 1118400
+  },
+  {
+    "date": "2018-11",
+    "population": 30366400,
+    "labour_force": 20006000,
+    "emp": 18869400,
+    "full_time_employed": 15289600,
+    "part_time_employed": 3579900,
+    "unemp": 1136500
+  },
+  {
+    "date": "2018-12",
+    "population": 30393700,
+    "labour_force": 20022600,
+    "emp": 18892800,
+    "full_time_employed": 15300300,
+    "part_time_employed": 3592400,
+    "unemp": 1129800
+  },
+  {
+    "date": "2019-01",
+    "population": 30427800,
+    "labour_force": 20068300,
+    "emp": 18920500,
+    "full_time_employed": 15281400,
+    "part_time_employed": 3639100,
+    "unemp": 1147800
+  },
+  {
+    "date": "2019-02",
+    "population": 30450900,
+    "labour_force": 20130700,
+    "emp": 18965700,
+    "full_time_employed": 15339100,
+    "part_time_employed": 3626600,
+    "unemp": 1165000
+  },
+  {
+    "date": "2019-03",
+    "population": 30479800,
+    "labour_force": 20109100,
+    "emp": 18932900,
+    "full_time_employed": 15345200,
+    "part_time_employed": 3587700,
+    "unemp": 1176200
+  },
+  {
+    "date": "2019-04",
+    "population": 30519600,
+    "labour_force": 20208200,
+    "emp": 19053700,
+    "full_time_employed": 15410300,
+    "part_time_employed": 3643500,
+    "unemp": 1154500
+  },
+  {
+    "date": "2019-05",
+    "population": 30554400,
+    "labour_force": 20170400,
+    "emp": 19067300,
+    "full_time_employed": 15433900,
+    "part_time_employed": 3633400,
+    "unemp": 1103100
+  },
+  {
+    "date": "2019-06",
+    "population": 30593100,
+    "labour_force": 20199900,
+    "emp": 19078600,
+    "full_time_employed": 15462400,
+    "part_time_employed": 3616200,
+    "unemp": 1121200
+  },
+  {
+    "date": "2019-07",
+    "population": 30649400,
+    "labour_force": 20234500,
+    "emp": 19072400,
+    "full_time_employed": 15465200,
+    "part_time_employed": 3607200,
+    "unemp": 1162000
+  },
+  {
+    "date": "2019-08",
+    "population": 30694300,
+    "labour_force": 20300200,
+    "emp": 19133900,
+    "full_time_employed": 15513800,
+    "part_time_employed": 3620100,
+    "unemp": 1166300
+  },
+  {
+    "date": "2019-09",
+    "population": 30747600,
+    "labour_force": 20282200,
+    "emp": 19142800,
+    "full_time_employed": 15534500,
+    "part_time_employed": 3608300,
+    "unemp": 1139400
+  },
+  {
+    "date": "2019-10",
+    "population": 30791800,
+    "labour_force": 20274500,
+    "emp": 19130900,
+    "full_time_employed": 15503300,
+    "part_time_employed": 3627600,
+    "unemp": 1143600
+  },
+  {
+    "date": "2019-11",
+    "population": 30832400,
+    "labour_force": 20293700,
+    "emp": 19096800,
+    "full_time_employed": 15470400,
+    "part_time_employed": 3626400,
+    "unemp": 1197000
+  },
+  {
+    "date": "2019-12",
+    "population": 30868900,
+    "labour_force": 20326200,
+    "emp": 19186500,
+    "full_time_employed": 15556600,
+    "part_time_employed": 3629900,
+    "unemp": 1139700
+  },
+  {
+    "date": "2020-01",
+    "population": 30907300,
+    "labour_force": 20326200,
+    "emp": 19204700,
+    "full_time_employed": 15578300,
+    "part_time_employed": 3626400,
+    "unemp": 1121500
+  },
+  {
+    "date": "2020-02",
+    "population": 30945100,
+    "labour_force": 20384800,
+    "emp": 19202900,
+    "full_time_employed": 15607000,
+    "part_time_employed": 3595900,
+    "unemp": 1182000
+  },
+  {
+    "date": "2020-03",
+    "population": 30988300,
+    "labour_force": 19725200,
+    "emp": 18058200,
+    "full_time_employed": 15076900,
+    "part_time_employed": 2981200,
+    "unemp": 1667000
+  },
+  {
+    "date": "2020-04",
+    "population": 31014200,
+    "labour_force": 18631600,
+    "emp": 16085800,
+    "full_time_employed": 13612900,
+    "part_time_employed": 2472900,
+    "unemp": 2545700
+  },
+  {
+    "date": "2020-05",
+    "population": 31037600,
+    "labour_force": 19131200,
+    "emp": 16410700,
+    "full_time_employed": 13870200,
+    "part_time_employed": 2540500,
+    "unemp": 2720500
+  },
+  {
+    "date": "2020-06",
+    "population": 31070800,
+    "labour_force": 19977700,
+    "emp": 17469400,
+    "full_time_employed": 14459300,
+    "part_time_employed": 3010100,
+    "unemp": 2508300
+  },
+  {
+    "date": "2020-07",
+    "population": 31100200,
+    "labour_force": 20094000,
+    "emp": 17895500,
+    "full_time_employed": 14580900,
+    "part_time_employed": 3314600,
+    "unemp": 2198400
+  },
+  {
+    "date": "2020-08",
+    "population": 31126000,
+    "labour_force": 20164100,
+    "emp": 18129300,
+    "full_time_employed": 14714900,
+    "part_time_employed": 3414400,
+    "unemp": 2034800
+  },
+  {
+    "date": "2020-09",
+    "population": 31154400,
+    "labour_force": 20418300,
+    "emp": 18555900,
+    "full_time_employed": 15079500,
+    "part_time_employed": 3476500,
+    "unemp": 1862300
+  },
+  {
+    "date": "2020-10",
+    "population": 31172300,
+    "labour_force": 20451500,
+    "emp": 18616400,
+    "full_time_employed": 15062300,
+    "part_time_employed": 3554100,
+    "unemp": 1835100
+  },
+  {
+    "date": "2020-11",
+    "population": 31185800,
+    "labour_force": 20406800,
+    "emp": 18650000,
+    "full_time_employed": 15189600,
+    "part_time_employed": 3460400,
+    "unemp": 1756700
+  },
+  {
+    "date": "2020-12",
+    "population": 31193700,
+    "labour_force": 20404400,
+    "emp": 18591700,
+    "full_time_employed": 15217500,
+    "part_time_employed": 3374200,
+    "unemp": 1812700
+  },
+  {
+    "date": "2021-01",
+    "population": 31203900,
+    "labour_force": 20255600,
+    "emp": 18392100,
+    "full_time_employed": 15205600,
+    "part_time_employed": 3186500,
+    "unemp": 1863400
+  },
+  {
+    "date": "2021-02",
+    "population": 31221900,
+    "labour_force": 20361000,
+    "emp": 18632000,
+    "full_time_employed": 15298900,
+    "part_time_employed": 3333100,
+    "unemp": 1729000
+  },
+  {
+    "date": "2021-03",
+    "population": 31235600,
+    "labour_force": 20449900,
+    "emp": 18873000,
+    "full_time_employed": 15454300,
+    "part_time_employed": 3418700,
+    "unemp": 1576900
+  },
+  {
+    "date": "2021-04",
+    "population": 31248100,
+    "labour_force": 20350900,
+    "emp": 18673800,
+    "full_time_employed": 15372500,
+    "part_time_employed": 3301300,
+    "unemp": 1677100
+  },
+  {
+    "date": "2021-05",
+    "population": 31260400,
+    "labour_force": 20304800,
+    "emp": 18623600,
+    "full_time_employed": 15337700,
+    "part_time_employed": 3285900,
+    "unemp": 1681200
+  },
+  {
+    "date": "2021-06",
+    "population": 31287500,
+    "labour_force": 20514400,
+    "emp": 18894400,
+    "full_time_employed": 15384300,
+    "part_time_employed": 3510100,
+    "unemp": 1620000
+  },
+  {
+    "date": "2021-07",
+    "population": 31318800,
+    "labour_force": 20540500,
+    "emp": 19016500,
+    "full_time_employed": 15441100,
+    "part_time_employed": 3575400,
+    "unemp": 1524000
+  },
+  {
+    "date": "2021-08",
+    "population": 31359500,
+    "labour_force": 20548800,
+    "emp": 19081700,
+    "full_time_employed": 15507500,
+    "part_time_employed": 3574200,
+    "unemp": 1467100
+  },
+  {
+    "date": "2021-09",
+    "population": 31393000,
+    "labour_force": 20705600,
+    "emp": 19251100,
+    "full_time_employed": 15692000,
+    "part_time_employed": 3559100,
+    "unemp": 1454500
+  },
+  {
+    "date": "2021-10",
+    "population": 31432600,
+    "labour_force": 20624400,
+    "emp": 19288100,
+    "full_time_employed": 15728700,
+    "part_time_employed": 3559400,
+    "unemp": 1336200
+  },
+  {
+    "date": "2021-11",
+    "population": 31475900,
+    "labour_force": 20699400,
+    "emp": 19437300,
+    "full_time_employed": 15801100,
+    "part_time_employed": 3636200,
+    "unemp": 1262200
+  },
+  {
+    "date": "2021-12",
+    "population": 31518900,
+    "labour_force": 20741200,
+    "emp": 19508800,
+    "full_time_employed": 15920800,
+    "part_time_employed": 3588000,
+    "unemp": 1232400
+  },
+  {
+    "date": "2022-01",
+    "population": 31559400,
+    "labour_force": 20630700,
+    "emp": 19305400,
+    "full_time_employed": 15870300,
+    "part_time_employed": 3435100,
+    "unemp": 1325400
+  },
+  {
+    "date": "2022-02",
+    "population": 31600500,
+    "labour_force": 20764700,
+    "emp": 19629000,
+    "full_time_employed": 16030500,
+    "part_time_employed": 3598600,
+    "unemp": 1135600
+  },
+  {
+    "date": "2022-03",
+    "population": 31642100,
+    "labour_force": 20762700,
+    "emp": 19647800,
+    "full_time_employed": 16037300,
+    "part_time_employed": 3610500,
+    "unemp": 1114900
+  },
+  {
+    "date": "2022-04",
+    "population": 31683500,
+    "labour_force": 20826200,
+    "emp": 19709700,
+    "full_time_employed": 16084200,
+    "part_time_employed": 3625400,
+    "unemp": 1116500
+  },
+  {
+    "date": "2022-05",
+    "population": 31733200,
+    "labour_force": 20847500,
+    "emp": 19763400,
+    "full_time_employed": 16210300,
+    "part_time_employed": 3553100,
+    "unemp": 1084200
+  },
+  {
+    "date": "2022-06",
+    "population": 31781700,
+    "labour_force": 20778200,
+    "emp": 19750800,
+    "full_time_employed": 16212300,
+    "part_time_employed": 3538500,
+    "unemp": 1027400.0000000001
+  },
+  {
+    "date": "2022-07",
+    "population": 31834300,
+    "labour_force": 20794500,
+    "emp": 19787500,
+    "full_time_employed": 16246600,
+    "part_time_employed": 3540900,
+    "unemp": 1007100
+  },
+  {
+    "date": "2022-08",
+    "population": 31894000,
+    "labour_force": 20865100,
+    "emp": 19781200,
+    "full_time_employed": 16217100,
+    "part_time_employed": 3564100,
+    "unemp": 1083900
+  },
+  {
+    "date": "2022-09",
+    "population": 31948300,
+    "labour_force": 20862700,
+    "emp": 19796100,
+    "full_time_employed": 16212300,
+    "part_time_employed": 3583800,
+    "unemp": 1066600
+  },
+  {
+    "date": "2022-10",
+    "population": 32005200,
+    "labour_force": 20955300,
+    "emp": 19882800,
+    "full_time_employed": 16269800,
+    "part_time_employed": 3613100,
+    "unemp": 1072500
+  },
+  {
+    "date": "2022-11",
+    "population": 32058700,
+    "labour_force": 20982500,
+    "emp": 19923800,
+    "full_time_employed": 16345900,
+    "part_time_employed": 3577900,
+    "unemp": 1058700
+  },
+  {
+    "date": "2022-12",
+    "population": 32111800,
+    "labour_force": 21049600,
+    "emp": 19998500,
+    "full_time_employed": 16426800,
+    "part_time_employed": 3571700,
+    "unemp": 1051100
+  },
+  {
+    "date": "2023-01",
+    "population": 32187900,
+    "labour_force": 21181200,
+    "emp": 20097500,
+    "full_time_employed": 16515000,
+    "part_time_employed": 3582600,
+    "unemp": 1083700
+  },
+  {
+    "date": "2023-02",
+    "population": 32270600,
+    "labour_force": 21239600,
+    "emp": 20143300,
+    "full_time_employed": 16557000,
+    "part_time_employed": 3586300,
+    "unemp": 1096300
+  },
+  {
+    "date": "2023-03",
+    "population": 32355300,
+    "labour_force": 21293900,
+    "emp": 20214700,
+    "full_time_employed": 16624500,
+    "part_time_employed": 3590200,
+    "unemp": 1079200
+  },
+  {
+    "date": "2023-04",
+    "population": 32432500,
+    "labour_force": 21322800,
+    "emp": 20242100,
+    "full_time_employed": 16604500,
+    "part_time_employed": 3637600,
+    "unemp": 1080700
+  },
+  {
+    "date": "2023-05",
+    "population": 32524600,
+    "labour_force": 21365200,
+    "emp": 20253900,
+    "full_time_employed": 16600500,
+    "part_time_employed": 3653400,
+    "unemp": 1111300
+  },
+  {
+    "date": "2023-06",
+    "population": 32617000,
+    "labour_force": 21478300,
+    "emp": 20325100,
+    "full_time_employed": 16718599.999999998,
+    "part_time_employed": 3606500,
+    "unemp": 1153200
+  },
+  {
+    "date": "2023-07",
+    "population": 32710300,
+    "labour_force": 21529000,
+    "emp": 20356900,
+    "full_time_employed": 16732099.999999998,
+    "part_time_employed": 3624800,
+    "unemp": 1172200
+  },
+  {
+    "date": "2023-08",
+    "population": 32808300.000000004,
+    "labour_force": 21588400,
+    "emp": 20423700,
+    "full_time_employed": 16803800,
+    "part_time_employed": 3619900,
+    "unemp": 1164700
+  },
+  {
+    "date": "2023-09",
+    "population": 32896000,
+    "labour_force": 21654500,
+    "emp": 20473100,
+    "full_time_employed": 16794800,
+    "part_time_employed": 3678200,
+    "unemp": 1181400
+  },
+  {
+    "date": "2023-10",
+    "population": 32987699.999999996,
+    "labour_force": 21737700,
+    "emp": 20501800,
+    "full_time_employed": 16822900,
+    "part_time_employed": 3678900,
+    "unemp": 1235900
+  },
+  {
+    "date": "2023-11",
+    "population": 33077900,
+    "labour_force": 21775500,
+    "emp": 20522200,
+    "full_time_employed": 16846200,
+    "part_time_employed": 3676000,
+    "unemp": 1253300
+  },
+  {
+    "date": "2023-12",
+    "population": 33168300.000000004,
+    "labour_force": 21793800,
+    "emp": 20530600,
+    "full_time_employed": 16849200,
+    "part_time_employed": 3681400,
+    "unemp": 1263300
+  },
+  {
+    "date": "2024-01",
+    "population": 33276500,
+    "labour_force": 21798500,
+    "emp": 20552100,
+    "full_time_employed": 16824900,
+    "part_time_employed": 3727200,
+    "unemp": 1246400
+  },
+  {
+    "date": "2024-02",
+    "population": 33373500,
+    "labour_force": 21894800,
+    "emp": 20593800,
+    "full_time_employed": 16897900,
+    "part_time_employed": 3695900,
+    "unemp": 1300900
+  },
+  {
+    "date": "2024-03",
+    "population": 33469500,
+    "labour_force": 21971200,
+    "emp": 20620800,
+    "full_time_employed": 16918700,
+    "part_time_employed": 3702100,
+    "unemp": 1350400
+  },
+  {
+    "date": "2024-04",
+    "population": 33578900,
+    "labour_force": 22035500,
+    "emp": 20674900,
+    "full_time_employed": 16924100,
+    "part_time_employed": 3750800,
+    "unemp": 1360600
+  },
+  {
+    "date": "2024-05",
+    "population": 33685500,
+    "labour_force": 22087900,
+    "emp": 20707200,
+    "full_time_employed": 16898000,
+    "part_time_employed": 3809200,
+    "unemp": 1380700
+  },
+  {
+    "date": "2024-06",
+    "population": 33788300,
+    "labour_force": 22131100,
+    "emp": 20708100,
+    "full_time_employed": 16921700,
+    "part_time_employed": 3786500,
+    "unemp": 1423000
+  },
+  {
+    "date": "2024-07",
+    "population": 33899800,
+    "labour_force": 22147400,
+    "emp": 20725100,
+    "full_time_employed": 16996000,
+    "part_time_employed": 3729200,
+    "unemp": 1422200
+  },
+  {
+    "date": "2024-08",
+    "population": 33995100,
+    "labour_force": 22220500,
+    "emp": 20760400,
+    "full_time_employed": 16949800,
+    "part_time_employed": 3810600,
+    "unemp": 1460100
+  },
+  {
+    "date": "2024-09",
+    "population": 34089800,
+    "labour_force": 22231800,
+    "emp": 20796000,
+    "full_time_employed": 17046400,
+    "part_time_employed": 3749600,
+    "unemp": 1435900
+  },
+  {
+    "date": "2024-10",
+    "population": 34163700,
+    "labour_force": 22272200,
+    "emp": 20804900,
+    "full_time_employed": 17050400,
+    "part_time_employed": 3754500,
+    "unemp": 1467300
+  },
+  {
+    "date": "2024-11",
+    "population": 34225200,
+    "labour_force": 22401700,
+    "emp": 20842000,
+    "full_time_employed": 17112200,
+    "part_time_employed": 3729900,
+    "unemp": 1559700
+  },
+  {
+    "date": "2024-12",
+    "population": 34285100,
+    "labour_force": 22437300,
+    "emp": 20934700,
+    "full_time_employed": 17152100,
+    "part_time_employed": 3782600,
+    "unemp": 1502600
+  },
+  {
+    "date": "2025-01",
+    "population": 34340800,
+    "labour_force": 22482200,
+    "emp": 20986900,
+    "full_time_employed": 17176100,
+    "part_time_employed": 3810800,
+    "unemp": 1495300
+  },
+  {
+    "date": "2025-02",
+    "population": 34388200,
+    "labour_force": 22469300,
+    "emp": 20985500,
+    "full_time_employed": 17156300,
+    "part_time_employed": 3829200,
+    "unemp": 1483800
+  },
+  {
+    "date": "2025-03",
+    "population": 34440000,
+    "labour_force": 22484800,
+    "emp": 20964300,
+    "full_time_employed": 17110800,
+    "part_time_employed": 3853500,
+    "unemp": 1520600
+  },
+  {
+    "date": "2025-04",
+    "population": 34493600,
+    "labour_force": 22520200,
+    "emp": 20966700,
+    "full_time_employed": 17120700,
+    "part_time_employed": 3846000,
+    "unemp": 1553500
+  },
+  {
+    "date": "2025-05",
+    "population": 34530600,
+    "labour_force": 22545400,
+    "emp": 20974400,
+    "full_time_employed": 17174500,
+    "part_time_employed": 3799800,
+    "unemp": 1571000
+  },
+  {
+    "date": "2025-06",
+    "population": 34577200,
+    "labour_force": 22589000,
+    "emp": 21040700,
+    "full_time_employed": 17191800,
+    "part_time_employed": 3848900,
+    "unemp": 1548400
+  },
+  {
+    "date": "2025-07",
+    "population": 34614800,
+    "labour_force": 22578200,
+    "emp": 21018300,
+    "full_time_employed": 17155900,
+    "part_time_employed": 3862400,
+    "unemp": 1559900
+  },
+  {
+    "date": "2025-08",
+    "population": 34644200,
+    "labour_force": 22546600,
+    "emp": 20956600,
+    "full_time_employed": 17152700,
+    "part_time_employed": 3803900,
+    "unemp": 1590100
+  },
+  {
+    "date": "2025-09",
+    "population": 34671900,
+    "labour_force": 22606000,
+    "emp": 21009900,
+    "full_time_employed": 17255300,
+    "part_time_employed": 3754600,
+    "unemp": 1596100
+  },
+  {
+    "date": "2025-10",
+    "population": 34695400,
+    "labour_force": 22634300,
+    "emp": 21083600,
+    "full_time_employed": 17233200,
+    "part_time_employed": 3850400,
+    "unemp": 1550700
+  },
+  {
+    "date": "2025-11",
+    "population": 34713100,
+    "labour_force": 22619800,
+    "emp": 21135900,
+    "full_time_employed": 17228300,
+    "part_time_employed": 3907600,
+    "unemp": 1483900
+  },
+  {
+    "date": "2025-12",
+    "population": 34723000,
+    "labour_force": 22697700,
+    "emp": 21146000,
+    "full_time_employed": 17279700,
+    "part_time_employed": 3866300,
+    "unemp": 1551700
+  },
+  {
+    "date": "2026-01",
+    "population": 34728200,
+    "labour_force": 22578700,
+    "emp": 21121200,
+    "full_time_employed": 17324600,
+    "part_time_employed": 3796600,
+    "unemp": 1457500
+  },
+  {
+    "date": "2026-02",
+    "population": 34735500,
+    "labour_force": 22551500,
+    "emp": 21037300,
+    "full_time_employed": 17216200,
+    "part_time_employed": 3821100,
+    "unemp": 1514200
+  }
+]
