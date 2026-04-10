@@ -5416,5 +5416,14 @@
     "full_time_employed": 17216200,
     "part_time_employed": 3821100,
     "unemp": 1514200
+  },
+  {
+    "date": "2026-03",
+    "population": 34746700,
+    "labour_force": 22566600,
+    "emp": 21051400,
+    "full_time_employed": 17215100,
+    "part_time_employed": 3836300,
+    "unemp": 1515200
   }
 ]
